@@ -1,0 +1,933 @@
+﻿Log file open, 07/02/20 19:55:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Ancient_Warriors
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.410845
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin HoudiniNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.02-17.55.41:044][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.07.02-17.55.41:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.02-17.55.41:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.07.02-17.55.41:045][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.07.02-17.55.41:048][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.02-17.55.41:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.02-17.55.41:049][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.02-17.55.41:049][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.02-17.55.41:049][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.02-17.55.41:109][  0]LogHAL: Display: Platform has ~ 16 GB [17016332288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.02-17.55.41:109][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.07.02-17.55.41:109][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.02-17.55.41:110][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.02-17.55.41:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.02-17.55.41:111][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.07.02-17.55.41:112][  0]LogInit: Computer: DESKTOP-0V54JMG
+[2020.07.02-17.55.41:112][  0]LogInit: User: Gorka
+[2020.07.02-17.55.41:112][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.07.02-17.55.41:112][  0]LogInit: High frequency timer resolution =2.156251 MHz
+[2020.07.02-17.55.41:112][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.07.02-17.55.41:112][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.02-17.55.41:112][  0]LogMemory: Process Physical Memory: 100.34 MB used, 100.34 MB peak
+[2020.07.02-17.55.41:112][  0]LogMemory: Process Virtual Memory: 103.56 MB used, 103.57 MB peak
+[2020.07.02-17.55.41:112][  0]LogMemory: Physical Memory: 6032.39 MB used,  10195.65 MB free, 16228.04 MB total
+[2020.07.02-17.55.41:112][  0]LogMemory: Virtual Memory: 4670.90 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.07.02-17.55.41:137][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.07.02-17.55.41:137][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.07.02-17.55.41:137][  0]LogInit: Using OS detected locale (es-ES).
+[2020.07.02-17.55.41:278][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.02-17.55.41:329][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.02-17.55.41:329][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.02-17.55.41:523][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.02-17.55.41:523][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.02-17.55.41:595][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.07.02-17.55.41:596][  0]LogD3D11RHI:       8081/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.07.02-17.55.41:622][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.07.02-17.55.41:622][  0]LogD3D11RHI:       128/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.07.02-17.55.41:624][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.02-17.55.41:624][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.02-17.55.41:624][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.02-17.55.41:651][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.02-17.55.41:651][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.02-17.55.41:651][  0]LogWindows: EnumDisplayDevices:
+[2020.07.02-17.55.41:651][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.07.02-17.55.41:652][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.07.02-17.55.41:652][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.07.02-17.55.41:652][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.07.02-17.55.41:652][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.07.02-17.55.41:653][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.07.02-17.55.41:653][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.07.02-17.55.41:653][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.07.02-17.55.41:653][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.07.02-17.55.41:653][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2020.07.02-17.55.41:653][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2020.07.02-17.55.41:653][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2020.07.02-17.55.41:690][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.02-17.55.41:694][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.07.02-17.55.41:694][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.07.02-17.55.41:694][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.07.02-17.55.41:708][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.07.02-17.55.41:974][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.07.02-17.55.41:987][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.07.02-17.55.41:999][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.07.02-17.55.42:010][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.07.02-17.55.42:023][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.07.02-17.55.42:035][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.07.02-17.55.42:047][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.02-17.55.42:059][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.07.02-17.55.42:066][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.07.02-17.55.42:133][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.07.02-17.55.42:135][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.07.02-17.55.42:179][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.07.02-17.55.42:179][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.07.02-17.55.42:199][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.07.02-17.55.42:199][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.07.02-17.55.42:210][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.07.02-17.55.42:220][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.02-17.55.42:231][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.07.02-17.55.42:242][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.07.02-17.55.42:280][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.07.02-17.55.42:280][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.07.02-17.55.42:280][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.02-17.55.42:289][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.02-17.55.42:338][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (G:/Dinosaurios/Game/Ancient_Warriors/Intermediate/Shaders/WorkingDirectory/4984/).
+[2020.07.02-17.55.42:338][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gorka/AppData/Local/Temp/UnrealShaderWorkingDir/4F662A9949419610C6EFB1B0A974BDF2/'.
+[2020.07.02-17.55.42:341][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.02-17.55.42:341][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.02-17.55.42:341][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.02-17.55.42:843][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.02-17.55.42:895][  0]LogDerivedDataCache: Loaded boot cache 0.05s 81MB C:/Users/Gorka/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.07.02-17.55.42:895][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gorka/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.07.02-17.55.42:895][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Dinosaurios/Game/Ancient_Warriors/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.02-17.55.42:895][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.02-17.55.42:895][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Dinosaurios/Game/Ancient_Warriors/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.02-17.55.42:896][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.02-17.55.42:907][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.02-17.55.42:907][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.02-17.55.42:907][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.02-17.55.42:919][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gorka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.02-17.55.42:919][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.02-17.55.42:919][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.02-17.55.42:938][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.02-17.55.42:939][  0]LogSlate: Using FreeType 2.6.0
+[2020.07.02-17.55.42:939][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.02-17.55.43:032][  0]LogAssetRegistry: FAssetRegistry took 0.0320 seconds to start up
+[2020.07.02-17.55.43:302][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.02-17.55.43:431][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.02-17.55.43:431][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.02-17.55.43:432][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.02-17.55.43:432][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.02-17.55.43:432][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.02-17.55.43:442][  0]LogNetVersion: Ancient_Warriors 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1325908795)
+[2020.07.02-17.55.44:116][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.218782 seconds
+[2020.07.02-17.55.44:122][  0]LogUObjectArray: 42218 objects as part of root set at end of initial load.
+[2020.07.02-17.55.44:122][  0]LogUObjectAllocator: 7328024 out of 0 bytes used by permanent object pool.
+[2020.07.02-17.55.44:122][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.02-17.55.45:062][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.02-17.55.45:076][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.02-17.55.45:225][  0]SourceControl: Source control is disabled
+[2020.07.02-17.55.45:225][  0]SourceControl: Source control is disabled
+[2020.07.02-17.55.45:226][  0]SourceControl: Source control is disabled
+[2020.07.02-17.55.45:228][  0]SourceControl: Source control is disabled
+[2020.07.02-17.55.45:235][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.02-17.55.45:236][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.02-17.55.45:414][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.02-17.55.45:468][  0]LogOcInput: OculusInput pre-init called
+[2020.07.02-17.55.47:713][  0]LogEngine: Initializing Engine...
+[2020.07.02-17.55.47:716][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.02-17.55.47:721][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.07.02-17.55.48:655][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.02-17.55.48:711][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.02-17.55.48:739][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.02-17.55.49:300][  0]LogInit: FAudioDevice initialized.
+[2020.07.02-17.55.49:300][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.02-17.55.49:490][  0]LogDerivedDataCache: Saved boot cache 0.19s 81MB C:/Users/Gorka/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.07.02-17.55.49:528][  0]LogInit: Texture streaming: Enabled
+[2020.07.02-17.55.49:612][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.02-17.55.49:697][  0]LogInit: Transaction tracking system initialized
+[2020.07.02-17.55.49:817][  0]BlueprintLog: New page: Editor Load
+[2020.07.02-17.55.49:917][  0]LocalizationService: Localization service is disabled
+[2020.07.02-17.55.50:063][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.02-17.55.50:064][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.02-17.55.50:252][  0]LogFileCache: Scanning file cache for directory 'G:/Dinosaurios/Game/Ancient_Warriors/Content/' took 0.02s
+[2020.07.02-17.55.50:252][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.02-17.55.50:252][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.02-17.55.50:445][  0]SourceControl: Source control is disabled
+[2020.07.02-17.55.50:445][  0]Cmd: MAP LOAD FILE="G:/Dinosaurios/Game/Ancient_Warriors/Content/ThirdPersonBP/Maps/Stage_1_Plain_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.02-17.55.50:459][  0]LightingResults: New page: Lighting Build
+[2020.07.02-17.55.50:463][  0]MapCheck: New page: Map Check
+[2020.07.02-17.55.50:463][  0]LightingResults: New page: Lighting Build
+[2020.07.02-17.55.50:501][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.07.02-17.55.52:868][  0]LogBlueprint: Warning: [Compiler Cataw_EM_Skeleton_AnimBlueprint] Walk to Hit With Weapon  will never be taken, please connect something to  Can Enter Transition
+[2020.07.02-17.55.52:868][  0]LogBlueprint: Warning: [Compiler Cataw_EM_Skeleton_AnimBlueprint] Idle to Hit With Weapon  will never be taken, please connect something to  Can Enter Transition
+[2020.07.02-17.55.52:869][  0]LogBlueprint: Warning: [Compiler Cataw_EM_Skeleton_AnimBlueprint] Walk to Throw a Wapon  will never be taken, please connect something to  Can Enter Transition
+[2020.07.02-17.55.52:869][  0]LogBlueprint: Warning: [Compiler Cataw_EM_Skeleton_AnimBlueprint] Idle to Throw a Wapon  will never be taken, please connect something to  Can Enter Transition
+[2020.07.02-17.55.52:998][  0]LogBlueprint: Warning: [Compiler Cataw_EM_Skeleton_AnimBlueprint] [0015,54] Compile of Cataw_EM_Skeleton_AnimBlueprint successful, but with 4 Warning(s) [in 217 ms] (/Game/Characters/Main_Characters/Cataw/Model/Cataw_EM_Skeleton_AnimBlueprint.Cataw_EM_Skeleton_AnimBlueprint)
+[2020.07.02-17.56.02:644][  0]AssetCheck: Warning: Cataw_Walk Particle system /Game/Characters/Main_Characters/Cataw/Particles/FootStepParticle.FootStepParticle used in anim notify for asset /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Walk.Cataw_Walk is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify).
+[2020.07.02-17.56.02:857][  0]AssetCheck: Warning: Cataw_Walk Particle system /Game/Characters/Main_Characters/Cataw/Particles/FootStepParticle.FootStepParticle used in anim notify for asset /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Walk.Cataw_Walk is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify).
+[2020.07.02-17.56.05:473][  0]LogAIModule: Creating AISystem for world Stage_1_Plain_1
+[2020.07.02-17.56.06:375][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.02-17.56.06:435][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.07.02-17.56.06:435][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.02-17.56.06:435][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,141ms to complete.
+[2020.07.02-17.56.06:435][  0]LogFileHelpers: Loading map 'Stage_1_Plain_1' took 15.991
+[2020.07.02-17.56.06:670][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-17.56.06:702][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-17.56.06:715][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-17.56.06:727][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-17.56.06:747][  0]LogCollectionManager: Loaded 0 collections in 0.004895 seconds
+[2020.07.02-17.56.06:787][  0]LogFileCache: Scanning file cache for directory 'G:/Dinosaurios/Game/Ancient_Warriors/Saved/Collections/' took 0.01s
+[2020.07.02-17.56.06:787][  0]LogFileCache: Scanning file cache for directory 'G:/Dinosaurios/Game/Ancient_Warriors/Content/Developers/Gorka/Collections/' took 0.00s
+[2020.07.02-17.56.06:787][  0]LogFileCache: Scanning file cache for directory 'G:/Dinosaurios/Game/Ancient_Warriors/Content/Collections/' took 0.00s
+[2020.07.02-17.56.06:787][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.07.02-17.56.06:810][  0]LogContentBrowser: Native class hierarchy populated in 0.0211 seconds. Added 2865 classes and 686 folders.
+[2020.07.02-17.56.06:843][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.07.02-17.56.06:855][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:863][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:867][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:875][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:884][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:897][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:901][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:929][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:939][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:941][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:944][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.06:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.02-17.56.07:282][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.07.02-17.56.07:318][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2020.07.02-17.56.07:443][  0]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.07.02-17.56.07:993][  0]LogSlate: Took 0.000640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.02-17.56.08:000][  0]LogSlate: Took 0.000605 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.02-17.56.08:017][  0]LogSlate: Took 0.001710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.02-17.56.08:237][  0]LogRenderer: Reallocating scene render targets to support 1348x600 Format 10 NumSamples 1 (Frame:1).
+[2020.07.02-17.56.08:742][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.07.02-17.56.08:742][  0]LogLoad: (Engine Initialization) Total time: 31.28 seconds
+[2020.07.02-17.56.08:742][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.02-17.56.08:758][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.02-17.56.08:814][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.02-17.56.08:835][  0]LogSlate: Took 0.001167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.02-17.56.08:899][  1]LogAssetRegistry: Asset discovery search completed in 25.8894 seconds
+[2020.07.02-17.56.08:904][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.07.02-17.56.08:904][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000154 seconds (updated 0 objects)
+[2020.07.02-17.56.17:946][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.02-17.56.18:107][266]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.02-17.56.18:203][266]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.07.02-17.56.18:203][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.02-17.56.18:206][266]PIE: New page: PIE session: Stage_1_Plain_1 (2/7/2020 21:56:18)
+[2020.07.02-17.56.18:222][266]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Stage_1_Plain_1
+[2020.07.02-17.56.18:453][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.230287s)
+[2020.07.02-17.56.18:454][266]LogAIModule: Creating AISystem for world Stage_1_Plain_1
+[2020.07.02-17.56.18:454][266]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2020.07.02-17.56.18:454][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Stage_1_Plain_1.Stage_1_Plain_1 (0.231524s)
+[2020.07.02-17.56.18:481][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.07.02-17.56.18:486][266]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.02-17.56.18:619][266]LogInit: FAudioDevice initialized.
+[2020.07.02-17.56.18:670][266]LogLoad: Game class is 'BeatemupGameMode_C'
+[2020.07.02-17.56.18:693][266]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Stage_1_Plain_1.Stage_1_Plain_1 up for play (max tick rate 0) at 2020.07.02-19.56.18
+[2020.07.02-17.56.18:702][266]LogWorld: Bringing up level for play took: 0.028979
+[2020.07.02-17.56.18:717][266]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.07.02-17.56.18:726][266]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.07.02-17.56.18:737][266]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2020.07.02-17.56.18:737][266]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Stage_1_Plain_1 0,22
+[2020.07.02-17.56.18:738][266]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.07.02-17.56.22:412][370]Set new viewmode: Unlit
+[2020.07.02-17.56.23:010][388]Set new viewmode: Lit
+[2020.07.02-17.56.23:419][403]Set new viewmode: Lit_DetailLighting
+[2020.07.02-17.56.24:026][421]Set new viewmode: ShaderComplexity
+[2020.07.02-17.56.24:123][422]LogMaterial: Display: Missing cached shader map for material DebugViewMode ComplexityAccumulate, compiling. Is special engine material.
+[2020.07.02-17.56.27:384][422]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.07.02-17.56.27:384][422]LogShaderCompilers: Display: Shaders left to compile 59
+[2020.07.02-17.56.27:384][422]LogShaderCompilers: Display: Shaders left to compile 58
+[2020.07.02-17.56.27:384][422]LogShaderCompilers: Display: Shaders left to compile 57
+[2020.07.02-17.56.27:384][422]LogShaderCompilers: Display: Shaders left to compile 56
+[2020.07.02-17.56.27:384][422]LogShaderCompilers: Display: Shaders left to compile 55
+[2020.07.02-17.56.27:384][422]LogShaderCompilers: Display: Shaders left to compile 54
+[2020.07.02-17.56.27:384][422]LogShaderCompilers: Display: Shaders left to compile 53
+[2020.07.02-17.56.27:384][422]LogShaderCompilers: Display: Shaders left to compile 52
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 51
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 49
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 48
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 47
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 46
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 45
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 44
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 43
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 42
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 41
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 39
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 38
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 37
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 36
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 35
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 34
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 33
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 32
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 26
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 25
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 24
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 23
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 19
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 18
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 16
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 15
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 14
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 13
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.07.02-17.56.27:385][422]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.07.02-17.56.27:386][422]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.07.02-17.56.27:386][422]TextureStreamingBuild: Display: Compiling optional shaders took 3.299 seconds.
+[2020.07.02-17.56.27:390][423]Set new viewmode: ShaderComplexity
+[2020.07.02-17.56.27:390][423]Set new viewmode: Lit_DetailLighting
+[2020.07.02-17.56.27:391][423]Set new viewmode: Lit
+[2020.07.02-17.56.27:391][423]Set new viewmode: Lit_DetailLighting
+[2020.07.02-17.56.28:911][471]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.56.28:911][471]LogBlueprintUserMessages: [CatawCharacter_C_0] Right Input
+[2020.07.02-17.56.28:996][473]LogBlueprintUserMessages: [CatawCharacter_C_0] Right pressed
+[2020.07.02-17.56.29:045][475]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.29:077][476]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.29:078][476]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.29:312][483]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.56.29:448][487]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.29:480][488]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.29:480][488]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.29:945][502]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.56.29:945][502]LogBlueprintUserMessages: [CatawCharacter_C_0] Right Input
+[2020.07.02-17.56.30:013][504]LogBlueprintUserMessages: [CatawCharacter_C_0] Right pressed
+[2020.07.02-17.56.30:046][505]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.56.30:078][506]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.30:117][507]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.56.30:117][507]LogBlueprintUserMessages: [CatawCharacter_C_0] Is running forwards
+[2020.07.02-17.56.30:118][507]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.30:119][507]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.30:183][509]LogBlueprintUserMessages: [CatawCharacter_C_0] Right pressed
+[2020.07.02-17.56.30:517][519]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.56.30:677][524]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.30:677][524]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.30:677][524]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.30:711][525]LogBlueprintUserMessages: [CatawCharacter_C_0] Downpressed
+[2020.07.02-17.56.31:079][536]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.31:079][536]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.31:080][536]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.31:644][553]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.31:644][553]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.31:644][553]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.31:811][558]LogBlueprintUserMessages: [CatawCharacter_C_0] Up pressed
+[2020.07.02-17.56.32:045][565]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.32:046][565]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.32:046][565]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.32:610][582]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.56.32:610][582]LogBlueprintUserMessages: [CatawCharacter_C_0] Right Input
+[2020.07.02-17.56.32:612][582]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.32:612][582]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.32:612][582]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.32:680][584]LogBlueprintUserMessages: [CatawCharacter_C_0] Right pressed
+[2020.07.02-17.56.32:714][585]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.56.32:844][589]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.56.32:844][589]LogBlueprintUserMessages: [CatawCharacter_C_0] Right Input
+[2020.07.02-17.56.32:911][591]LogBlueprintUserMessages: [CatawCharacter_C_0] Right pressed
+[2020.07.02-17.56.32:943][592]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.56.33:010][594]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.56.33:010][594]LogBlueprintUserMessages: [CatawCharacter_C_0] Is running forwards
+[2020.07.02-17.56.33:012][594]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.33:012][594]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.33:012][594]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.33:078][596]LogBlueprintUserMessages: [CatawCharacter_C_0] Right pressed
+[2020.07.02-17.56.34:112][627]LogBlueprintUserMessages: [CatawCharacter_C_0] Up pressed
+[2020.07.02-17.56.34:644][643]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.56.34:778][647]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.34:778][647]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.34:778][647]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.35:180][659]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.35:180][659]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.35:181][659]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.35:609][672]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.56.35:747][676]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.35:747][676]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.35:747][676]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.35:976][683]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.56.36:109][687]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.56.36:109][687]LogBlueprintUserMessages: [CatawCharacter_C_0] Right Input
+[2020.07.02-17.56.36:144][688]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.36:144][688]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.36:144][688]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.36:177][689]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.56.36:210][690]LogBlueprintUserMessages: [CatawCharacter_C_0] Right pressed
+[2020.07.02-17.56.36:243][691]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.56.36:244][691]LogBlueprintUserMessages: [CatawCharacter_C_0] Is running forwards
+[2020.07.02-17.56.36:310][693]LogBlueprintUserMessages: [CatawCharacter_C_0] Right pressed
+[2020.07.02-17.56.38:178][749]LogBlueprintUserMessages: [CatawCharacter_C_0] Downpressed
+[2020.07.02-17.56.38:311][753]LogBlueprintUserMessages: [PickUpActor_14] puede coger
+[2020.07.02-17.56.39:192][779]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	Enemy_Olkathu_A_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Enemy_Olkathu_A_C_0
+	Function /Game/Characters/Enemies/Enemy_Olkathu_A.Enemy_Olkathu_A_C:ExecuteUbergraph_Enemy_Olkathu_A:012B
+[2020.07.02-17.56.39:193][779]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  Enemy_Olkathu_A Function:  Execute Ubergraph Enemy Olkathu A Graph:  EventGraph Node:  Set Value as Bool
+[2020.07.02-17.56.40:278][812]LogBlueprintUserMessages: [CatawCharacter_C_0] Up pressed
+[2020.07.02-17.56.40:511][819]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.56.40:644][823]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.40:644][823]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.40:644][823]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.41:686][854]LogBlueprintUserMessages: [Stage_1_Plain_1_C_7] End 1 wave
+[2020.07.02-17.56.43:043][895]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.43:078][896]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.43:078][896]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.43:444][907]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.43:477][908]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.43:477][908]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.44:009][924]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.44:042][925]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.44:042][925]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.44:415][936]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.44:448][937]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.44:448][937]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.44:977][953]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.45:011][954]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.45:011][954]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.45:242][961]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.56.45:376][965]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.45:410][966]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.45:410][966]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.45:608][972]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.56.45:741][976]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.56.45:741][976]LogBlueprintUserMessages: [CatawCharacter_C_0] Right Input
+[2020.07.02-17.56.45:808][978]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.56.45:842][979]LogBlueprintUserMessages: [CatawCharacter_C_0] Right pressed
+[2020.07.02-17.56.45:876][980]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.56.45:876][980]LogBlueprintUserMessages: [CatawCharacter_C_0] Is running forwards
+[2020.07.02-17.56.45:977][983]LogBlueprintUserMessages: [CatawCharacter_C_0] Right pressed
+[2020.07.02-17.56.46:509][999]LogBlueprintUserMessages: [CatawCharacter_C_0] Up pressed
+[2020.07.02-17.56.49:176][ 79]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	Enemy_Olkathu_A_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Enemy_Olkathu_A_C_0
+	Function /Game/Characters/Enemies/Enemy_Olkathu_A.Enemy_Olkathu_A_C:ExecuteUbergraph_Enemy_Olkathu_A:012B
+[2020.07.02-17.56.49:176][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  Enemy_Olkathu_A Function:  Execute Ubergraph Enemy Olkathu A Graph:  EventGraph Node:  Set Value as Bool
+[2020.07.02-17.56.49:875][100]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.56.50:041][105]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.56.50:041][105]LogBlueprintUserMessages: [CatawCharacter_C_0] Right Input
+[2020.07.02-17.56.50:042][105]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.50:042][105]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.50:042][105]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.50:110][107]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.56.50:113][107]LogBlueprintUserMessages: [CatawCharacter_C_0] Right pressed
+[2020.07.02-17.56.50:178][109]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.56.50:179][109]LogBlueprintUserMessages: [CatawCharacter_C_0] Is running forwards
+[2020.07.02-17.56.50:275][112]LogBlueprintUserMessages: [CatawCharacter_C_0] Right pressed
+[2020.07.02-17.56.51:676][154]LogBlueprintUserMessages: [CatawCharacter_C_0] Up pressed
+[2020.07.02-17.56.53:416][206]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.56.53:576][211]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.53:576][211]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.53:576][211]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.56.54:740][246]Set new viewmode: Lit_DetailLighting
+[2020.07.02-17.56.55:040][255]Set new viewmode: ShaderComplexity
+[2020.07.02-17.56.57:238][321]Set new viewmode: Lit_DetailLighting
+[2020.07.02-17.56.58:873][370]Set new viewmode: Lit
+[2020.07.02-17.57.00:683][424]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.07.02-17.57.00:683][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-17.57.00:770][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.02-17.57.00:770][424]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.07.02-17.57.00:822][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-17.57.00:833][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.07.02-17.57.00:846][424]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.02-17.57.00:998][425]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.07.02-17.57.03:653][454]LogSlate: Window 'Message Log' being destroyed
+[2020.07.02-17.57.03:764][454]LogSlate: Window 'Message Log' being destroyed
+[2020.07.02-17.57.04:992][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.02-17.57.13:991][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Trees_Williamsonia)
+[2020.07.02-17.57.22:008][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Trees_Williamsonia)
+[2020.07.02-17.57.29:010][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.02-17.57.29:166][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.02-17.57.29:244][ 82]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.07.02-17.57.29:244][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.02-17.57.29:244][ 82]PIE: New page: PIE session: Stage_1_Plain_1 (2/7/2020 21:57:29)
+[2020.07.02-17.57.29:244][ 82]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Stage_1_Plain_1
+[2020.07.02-17.57.29:366][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122436s)
+[2020.07.02-17.57.29:367][ 82]LogAIModule: Creating AISystem for world Stage_1_Plain_1
+[2020.07.02-17.57.29:367][ 82]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2020.07.02-17.57.29:367][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Stage_1_Plain_1.Stage_1_Plain_1 (0.123699s)
+[2020.07.02-17.57.29:395][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.07.02-17.57.29:399][ 82]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.02-17.57.29:525][ 82]LogInit: FAudioDevice initialized.
+[2020.07.02-17.57.29:566][ 82]LogLoad: Game class is 'BeatemupGameMode_C'
+[2020.07.02-17.57.29:589][ 82]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Stage_1_Plain_1.Stage_1_Plain_1 up for play (max tick rate 0) at 2020.07.02-19.57.29
+[2020.07.02-17.57.29:592][ 82]LogWorld: Bringing up level for play took: 0.023403
+[2020.07.02-17.57.29:606][ 82]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.07.02-17.57.29:610][ 82]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2020.07.02-17.57.29:610][ 82]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Stage_1_Plain_1 1,092
+[2020.07.02-17.57.29:610][ 82]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.07.02-17.57.30:621][114]LogBlueprintUserMessages: [CatawCharacter_C_0] Right direction pressed
+[2020.07.02-17.57.30:621][114]LogBlueprintUserMessages: [CatawCharacter_C_0] Right Input
+[2020.07.02-17.57.30:722][117]LogBlueprintUserMessages: [CatawCharacter_C_0] Right pressed
+[2020.07.02-17.57.30:756][118]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.30:790][119]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.30:791][119]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.31:157][130]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.31:189][131]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.31:189][131]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.31:457][139]LogBlueprintUserMessages: [CatawCharacter_C_0] Downpressed
+[2020.07.02-17.57.31:723][147]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.31:756][148]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.31:757][148]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.32:121][159]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.32:155][160]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.32:155][160]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.32:688][176]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.32:721][177]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.32:721][177]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.33:087][188]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.33:120][189]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.33:121][189]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.33:653][205]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.33:687][206]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.33:687][206]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.34:058][217]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.34:091][218]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.34:091][218]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.34:622][234]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.34:657][235]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.34:657][235]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.35:021][246]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.35:054][247]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.35:054][247]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.35:256][253]LogBlueprintUserMessages: [CatawCharacter_C_0] Downpressed
+[2020.07.02-17.57.35:387][257]LogBlueprintUserMessages: [CatawCharacter_C_0] Is not running
+[2020.07.02-17.57.35:588][263]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.35:621][264]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.35:622][264]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.35:989][275]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.36:021][276]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.36:022][276]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.36:553][292]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.36:587][293]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.36:587][293]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.36:954][304]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.36:988][305]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.36:988][305]LogParticles: Warning: Particle Notify: Anim 'Cataw_Walk' tried to spawn infinitely looping particle system 'FootStepParticle'. Spawning suppressed.
+[2020.07.02-17.57.38:960][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.07.02-17.57.38:960][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-17.57.39:044][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.02-17.57.39:044][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.07.02-17.57.39:126][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-17.57.39:140][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.07.02-17.57.39:196][365]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.07.02-17.57.44:009][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.02-17.57.44:117][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.07.02-17.57.46:418][497]LogSlate: Window 'Save Content' being destroyed
+[2020.07.02-17.57.46:436][497]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.02-17.57.46:596][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.07.02-17.57.49:013][497]LogSavePackage: Moving 'G:/Dinosaurios/Game/Ancient_Warriors/Saved/Stage_1_Plain_195AED929421C712330B8B6BE5CF83063.tmp' to 'G:/Dinosaurios/Game/Ancient_Warriors/Content/ThirdPersonBP/Maps/Stage_1_Plain_1.umap'
+[2020.07.02-17.57.49:193][497]LogFileHelpers: Saving map 'Stage_1_Plain_1' took 2.728
+[2020.07.02-17.57.51:390][556]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Game/HUD/Stonic-Regular.Stonic-Regular', Character: '- (U+002d)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2020.07.02-17.57.51:401][556]LogSlate: Took 0.011200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.07.02-17.57.53:064][580]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/HUD/Character_HUD_BP2.Character_HUD_BP2
+[2020.07.02-17.57.53:869][580]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.07.02-17.57.55:199][580]LogSlate: Took 0.002502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.02-17.57.55:613][581]LogSlate: Took 0.002065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.02-17.58.10:106][975]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.07.02-17.58.12:293][975]LogSlate: Window 'Save Content' being destroyed
+[2020.07.02-17.58.12:356][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Character_HUD_BP2" FILE="G:/Dinosaurios/Game/Ancient_Warriors/Content/HUD/Character_HUD_BP2.uasset" SILENT=true
+[2020.07.02-17.58.12:487][975]LogSavePackage: Moving 'G:/Dinosaurios/Game/Ancient_Warriors/Saved/Character_HUD_BP26B1632E3459C3FBD3C5D8E8F18E45775.tmp' to 'G:/Dinosaurios/Game/Ancient_Warriors/Content/HUD/Character_HUD_BP2.uasset'
+[2020.07.02-17.58.18:677][ 53]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:296 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2020.07.02-17.58.18:677][ 53]LogD3D11RHI: [Aftermath] GDynamicRHI=0000025D1F2620C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.07.02-17.58.18:677][ 53]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
