@@ -1,0 +1,854 @@
+﻿Log file open, 05/19/20 08:47:56
+LogInit: Display: Running engine for game: Ancient_Warriors
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.103695
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin HoudiniNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13144385
+LogInit: Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): May  2 2020 02:12:11
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.05.19-06.47.57:029][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.19-06.47.57:029][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.19-06.47.57:030][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.19-06.47.57:030][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.19-06.47.57:030][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.19-06.47.57:030][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.19-06.47.57:030][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.19-06.47.57:030][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.19-06.47.57:030][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.19-06.47.57:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.05.19-06.47.57:030][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.05.19-06.47.57:033][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.19-06.47.57:033][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.05.19-06.47.57:034][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.19-06.47.57:034][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.19-06.47.57:034][  0]LogHAL: Display: Platform has ~ 16 GB [17016332288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.19-06.47.57:034][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.19-06.47.57:034][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.19-06.47.57:034][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.05.19-06.47.57:035][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.05.19-06.47.57:036][  0]LogInit: Computer: DESKTOP-0V54JMG
+[2020.05.19-06.47.57:036][  0]LogInit: User: Gorka
+[2020.05.19-06.47.57:036][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.19-06.47.57:036][  0]LogInit: High frequency timer resolution =2.156248 MHz
+[2020.05.19-06.47.57:036][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.05.19-06.47.57:036][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.19-06.47.57:036][  0]LogMemory: Process Physical Memory: 115.09 MB used, 115.09 MB peak
+[2020.05.19-06.47.57:036][  0]LogMemory: Process Virtual Memory: 113.55 MB used, 113.55 MB peak
+[2020.05.19-06.47.57:036][  0]LogMemory: Physical Memory: 9491.43 MB used,  6736.61 MB free, 16228.04 MB total
+[2020.05.19-06.47.57:036][  0]LogMemory: Virtual Memory: 5159.45 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.05.19-06.47.57:041][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.19-06.47.57:076][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.05.19-06.47.57:077][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.05.19-06.47.57:077][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.05.19-06.47.57:077][  0]LogInit: Using OS detected locale (es-ES).
+[2020.05.19-06.47.57:228][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.19-06.47.57:284][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.19-06.47.57:284][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.19-06.47.57:470][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.19-06.47.57:470][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.19-06.47.57:470][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.19-06.47.57:470][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.19-06.47.57:528][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.05.19-06.47.57:528][  0]LogD3D11RHI:       8081/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.19-06.47.57:552][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.05.19-06.47.57:552][  0]LogD3D11RHI:       128/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.19-06.47.57:554][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.19-06.47.57:554][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.19-06.47.57:554][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.19-06.47.57:587][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.19-06.47.57:587][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.19-06.47.57:587][  0]LogWindows: EnumDisplayDevices:
+[2020.05.19-06.47.57:587][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.05.19-06.47.57:587][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.19-06.47.57:587][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.19-06.47.57:588][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.19-06.47.57:588][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.19-06.47.57:588][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.19-06.47.57:588][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.19-06.47.57:588][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.19-06.47.57:588][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.05.19-06.47.57:589][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2020.05.19-06.47.57:589][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2020.05.19-06.47.57:589][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2020.05.19-06.47.57:625][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.19-06.47.57:626][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.05.19-06.47.57:626][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.19-06.47.57:626][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.05.19-06.47.57:647][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.05.19-06.47.57:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.19-06.47.57:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.19-06.47.57:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.19-06.47.57:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.19-06.47.57:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.19-06.47.57:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.19-06.47.57:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.19-06.47.57:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.19-06.47.57:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.19-06.47.57:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.19-06.47.57:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.19-06.47.57:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.19-06.47.57:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.19-06.47.57:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.05.19-06.47.57:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.19-06.47.57:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.19-06.47.57:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.19-06.47.58:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.19-06.47.58:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.19-06.47.58:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.19-06.47.58:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.19-06.47.58:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.19-06.47.58:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.19-06.47.58:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.19-06.47.58:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.19-06.47.58:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.19-06.47.58:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.19-06.47.58:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.19-06.47.58:084][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.19-06.47.58:092][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.19-06.47.58:147][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (G:/Dinosaurios/Game/Ancient_Warriors/Intermediate/Shaders/WorkingDirectory/67968/).
+[2020.05.19-06.47.58:147][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gorka/AppData/Local/Temp/UnrealShaderWorkingDir/8BD2C64B4AC482900EBBF79D15D97729/'.
+[2020.05.19-06.47.58:147][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.19-06.47.58:147][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.19-06.47.58:147][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.19-06.47.58:863][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.19-06.47.58:932][  0]LogDerivedDataCache: Loaded boot cache 0.07s 104MB C:/Users/Gorka/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.05.19-06.47.58:932][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gorka/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.05.19-06.47.58:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Dinosaurios/Game/Ancient_Warriors/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.19-06.47.58:932][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.19-06.47.58:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Dinosaurios/Game/Ancient_Warriors/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.19-06.47.58:932][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.19-06.47.58:942][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.19-06.47.58:942][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.19-06.47.58:942][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.19-06.47.58:943][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gorka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.19-06.47.58:943][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.19-06.47.58:943][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.19-06.47.58:999][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.19-06.47.58:999][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.19-06.47.59:022][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.05.19-06.47.59:246][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.19-06.47.59:357][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.19-06.47.59:357][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.19-06.47.59:357][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.19-06.47.59:357][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.19-06.47.59:357][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.19-06.47.59:437][  0]LogNetVersion: Ancient_Warriors 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3363560290)
+[2020.05.19-06.47.59:996][  0]LogMeshUtilities: Finished distance field build in 0.3s - 14x8x8 distance field, 4528 triangles, Range [-0.1, 0.6], MatineeCam_SM
+[2020.05.19-06.47.59:996][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002BC19E80140), frame # 0
+[2020.05.19-06.47.59:996][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002BC19DF4900), frame # 0
+[2020.05.19-06.47.59:998][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002BC19E4C400), frame # 0
+[2020.05.19-06.48.00:214][  0]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.205914 seconds
+[2020.05.19-06.48.00:223][  0]LogUObjectArray: 15913 objects as part of root set at end of initial load.
+[2020.05.19-06.48.00:223][  0]LogUObjectAllocator: 3964304 out of 0 bytes used by permanent object pool.
+[2020.05.19-06.48.00:223][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.19-06.48.00:828][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.19-06.48.00:836][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.19-06.48.01:196][  0]SourceControl: Source control is disabled
+[2020.05.19-06.48.01:196][  0]SourceControl: Source control is disabled
+[2020.05.19-06.48.01:200][  0]LogMeshUtilities: Finished distance field build in 1.5s - 64x64x20 distance field, 2048 triangles, Range [-0.0, 1.0], PlanarReflectionPlane
+[2020.05.19-06.48.01:200][  0]SourceControl: Source control is disabled
+[2020.05.19-06.48.01:204][  0]SourceControl: Source control is disabled
+[2020.05.19-06.48.01:213][  0]SourceControl: Source control is disabled
+[2020.05.19-06.48.01:234][  0]LogMeshUtilities: Discarded distance field for SplineEditorMesh as mesh was not closed!  Assign a two-sided material to fix.
+[2020.05.19-06.48.01:234][  0]LogMeshUtilities: Finished distance field build in 0.0s - 15x15x8 distance field, 60 triangles, Range [-0.2, 1.0], SplineEditorMesh
+[2020.05.19-06.48.01:234][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.19-06.48.01:234][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.19-06.48.01:681][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.19-06.48.01:716][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.19-06.48.01:716][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.19-06.48.01:807][  0]LogOcInput: OculusInput pre-init called
+[2020.05.19-06.48.01:824][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.19-06.48.01:824][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.19-06.48.01:936][  0]LogEngine: Initializing Engine...
+[2020.05.19-06.48.01:937][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.19-06.48.01:938][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.05.19-06.48.01:939][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.19-06.48.02:151][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.19-06.48.02:164][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.19-06.48.02:164][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002BC20A80600), frame # 0
+[2020.05.19-06.48.02:164][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002BC20A27B00), frame # 0
+[2020.05.19-06.48.02:225][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.19-06.48.02:225][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.19-06.48.02:225][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.19-06.48.02:225][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.19-06.48.02:225][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.19-06.48.02:225][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.19-06.48.02:225][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.19-06.48.02:225][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.19-06.48.02:226][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.19-06.48.02:226][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.19-06.48.02:241][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.19-06.48.02:241][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.19-06.48.02:505][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.05.19-06.48.02:517][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.05.19-06.48.02:520][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.05.19-06.48.02:521][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.05.19-06.48.02:522][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.05.19-06.48.02:523][  0]LogInit: FAudioDevice initialized.
+[2020.05.19-06.48.02:524][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.19-06.48.02:635][  0]LogDerivedDataCache: Saved boot cache 0.11s 104MB C:/Users/Gorka/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.05.19-06.48.02:636][  0]LogInit: Texture streaming: Enabled
+[2020.05.19-06.48.02:668][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.19-06.48.02:668][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.19-06.48.02:687][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.19-06.48.02:904][  0]LogInit: Transaction tracking system initialized
+[2020.05.19-06.48.02:940][  0]BlueprintLog: New page: Editor Load
+[2020.05.19-06.48.03:058][  0]LocalizationService: Localization service is disabled
+[2020.05.19-06.48.03:191][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.19-06.48.03:192][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.19-06.48.03:331][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.19-06.48.03:331][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.19-06.48.03:568][  0]LogFileCache: Scanning file cache for directory 'G:/Dinosaurios/Game/Ancient_Warriors/Content/' took 0.02s
+[2020.05.19-06.48.03:867][  0]SourceControl: Source control is disabled
+[2020.05.19-06.48.03:867][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.011
+[2020.05.19-06.48.03:867][  0]Cmd: MAP LOAD FILE="G:/Dinosaurios/Game/Ancient_Warriors/Content/ThirdPersonBP/Maps/Stage_1_Plain_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.19-06.48.03:868][  0]LightingResults: New page: Lighting Build
+[2020.05.19-06.48.03:869][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-06.48.03:869][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-06.48.03:869][  0]MapCheck: New page: Map Check
+[2020.05.19-06.48.03:869][  0]LightingResults: New page: Lighting Build
+[2020.05.19-06.48.03:887][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002BC20A80600), frame # 0
+[2020.05.19-06.48.03:887][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002BC20A27B00), frame # 0
+[2020.05.19-06.48.03:888][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.05.19-06.48.04:480][  0]LogBlueprint: Warning: [Compiler Cataw_EM_Skeleton_AnimBlueprint] Walk to Hit With Weapon  will never be taken, please connect something to  Can Enter Transition
+[2020.05.19-06.48.04:481][  0]LogBlueprint: Warning: [Compiler Cataw_EM_Skeleton_AnimBlueprint] Idle to Hit With Weapon  will never be taken, please connect something to  Can Enter Transition
+[2020.05.19-06.48.04:481][  0]LogBlueprint: Warning: [Compiler Cataw_EM_Skeleton_AnimBlueprint] Walk to Throw a Wapon  will never be taken, please connect something to  Can Enter Transition
+[2020.05.19-06.48.04:481][  0]LogBlueprint: Warning: [Compiler Cataw_EM_Skeleton_AnimBlueprint] Idle to Throw a Wapon  will never be taken, please connect something to  Can Enter Transition
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: Character_Bar_bc (AutoDXT, 1024X1024)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: Cataw_Avatar_bc (AutoDXT, 1024X1024)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: Weapons_bc (AutoDXT, 1024X1024)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: Canoe_bc (AutoDXT, 1024X1024)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:873][  0]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:874][  0]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:874][  0]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:874][  0]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:874][  0]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:874][  0]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:874][  0]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:874][  0]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:874][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Long_Range_Attack.Cataw_Long_Range_Attack
+[2020.05.19-06.48.05:874][  0]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 128X128)
+[2020.05.19-06.48.05:874][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Long_Attack.Cataw_Long_Attack
+[2020.05.19-06.48.05:874][  0]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:874][  0]LogMaterial: Display: Missing cached shader map for material HUD_Player_1_target_M, compiling. 
+[2020.05.19-06.48.05:988][  0]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:988][  0]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 128X128)
+[2020.05.19-06.48.05:988][  0]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 128X128)
+[2020.05.19-06.48.05:988][  0]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:988][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:988][  0]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:988][  0]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:988][  0]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:988][  0]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 256X256)
+[2020.05.19-06.48.05:988][  0]LogMaterial: Display: Missing cached shader map for material Recovery_Life_Bar, compiling. 
+[2020.05.19-06.48.06:110][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2020.05.19-06.48.06:110][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2020.05.19-06.48.06:110][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2020.05.19-06.48.06:110][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.05.19-06.48.06:110][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.05.19-06.48.06:110][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.19-06.48.06:110][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.05.19-06.48.06:110][  0]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 256X256)
+[2020.05.19-06.48.06:110][  0]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 128X128)
+[2020.05.19-06.48.06:110][  0]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 64X64)
+[2020.05.19-06.48.06:110][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2020.05.19-06.48.06:110][  0]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2020.05.19-06.48.06:110][  0]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2020.05.19-06.48.06:111][  0]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2020.05.19-06.48.06:111][  0]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2020.05.19-06.48.06:111][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.05.19-06.48.06:111][  0]LogMaterial: Display: Missing cached shader map for material Magic_Bar, compiling. 
+[2020.05.19-06.48.06:120][  0]LogMaterial: Display: Missing cached shader map for material Life_Bar, compiling. 
+[2020.05.19-06.48.06:129][  0]LogMaterial: Display: Missing cached shader map for material Frame_Bar, compiling. 
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 256X256)
+[2020.05.19-06.48.06:795][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 256X256)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 256X256)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 256X256)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 256X256)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 256X256)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 128X128)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 256X256)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 256X256)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 128X128)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 256X256)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 128X128)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 256X256)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 256X256)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 256X256)
+[2020.05.19-06.48.06:796][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 256X256)
+[2020.05.19-06.48.06:796][  0]LogMaterial: Display: Missing cached shader map for material Character_Name, compiling. 
+[2020.05.19-06.48.07:058][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 256X256)
+[2020.05.19-06.48.07:058][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 128X128)
+[2020.05.19-06.48.07:058][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 64X64)
+[2020.05.19-06.48.07:058][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2020.05.19-06.48.07:058][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2020.05.19-06.48.07:058][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2020.05.19-06.48.07:058][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2020.05.19-06.48.07:058][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2020.05.19-06.48.07:058][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.05.19-06.48.07:058][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 178
+[2020.05.19-06.48.07:058][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 168
+[2020.05.19-06.48.07:058][  0]LogSkeletalMesh: Building Skeletal Mesh Character_HUD_EM...
+[2020.05.19-06.48.07:069][  0]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/HUD/Character_HUD_EM.Character_HUD_EM
+[2020.05.19-06.48.07:072][  0]LogMaterial: Display: Missing cached shader map for material Cataw_Suit, compiling. 
+[2020.05.19-06.48.07:109][  0]LogMaterial: Display: Missing cached shader map for material Cataw_Body, compiling. 
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 256X64)
+[2020.05.19-06.48.07:576][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (G8, 128X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 1024X1024)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 128X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 128X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 128X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 64X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (G8, 256X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (G8, 64X64)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 32X32)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: Canoe_orm (AutoDXT, 1024X1024)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: Canoe_n (BC5, 1024X1024)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: Tipi_b_bc (AutoDXT, 1024X1024)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: Tipi_bc (AutoDXT, 1024X1024)
+[2020.05.19-06.48.07:577][  0]LogTexture: Display: Building textures: Tipi_orm (AutoDXT, 1024X1024)
+[2020.05.19-06.48.07:577][  0]LogMaterial: Display: Missing cached shader map for material Cataw_Weapons, compiling. 
+[2020.05.19-06.48.07:803][  0]LogMaterial: Display: Missing cached shader map for material ToonFootStep, compiling. 
+[2020.05.19-06.48.09:034][  0]LogTexture: Display: Building textures: Tipi_n (BC5, 1024X1024)
+[2020.05.19-06.48.09:034][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.05.19-06.48.09:034][  0]LogTexture: Display: Building textures: Weapons_orm (AutoDXT, 1024X1024)
+[2020.05.19-06.48.09:034][  0]LogTexture: Display: Building textures: Weapons_n (BC5, 1024X1024)
+[2020.05.19-06.48.09:034][  0]LogMaterial: Display: Missing cached shader map for material Canoe_M, compiling. 
+[2020.05.19-06.48.09:151][  0]LogStaticMesh: Building static mesh Canoe...
+[2020.05.19-06.48.09:167][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Stages/Stage_Plain_01/Models/Canoe.Canoe
+[2020.05.19-06.48.09:172][  0]LogMaterial: Display: Missing cached shader map for material Sampema_Suit, compiling. 
+[2020.05.19-06.48.09:618][  0]LogMaterial: Display: Missing cached shader map for material Enemies, compiling. 
+[2020.05.19-06.48.09:648][  0]LogMaterial: Display: Missing cached shader map for material PP_Cel_Shading, compiling. 
+[2020.05.19-06.48.09:774][  0]LogMaterial: Display: Missing cached shader map for material Totem_Brachi_Regali_Painted, compiling. 
+[2020.05.19-06.48.09:837][  0]LogMaterial: Display: Missing cached shader map for material Totem_Quetzalcoatlus, compiling. 
+[2020.05.19-06.48.09:858][  0]AssetCheck: Warning: Cataw_Walk Particle system /Game/Characters/Main_Characters/Cataw/Particles/FootStepParticle.FootStepParticle used in anim notify for asset /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Walk.Cataw_Walk is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify).
+[2020.05.19-06.48.09:970][  0]AssetCheck: Warning: Cataw_Walk Particle system /Game/Characters/Main_Characters/Cataw/Particles/FootStepParticle.FootStepParticle used in anim notify for asset /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Walk.Cataw_Walk is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify).
+[2020.05.19-06.48.10:004][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Dodge.Cataw_Dodge
+[2020.05.19-06.48.10:004][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Get_Over_Here_Loop.Cataw_Get_Over_Here_Loop
+[2020.05.19-06.48.10:004][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Running_Heavy_Attack.Cataw_Running_Heavy_Attack
+[2020.05.19-06.48.10:004][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Get_Over_Here_Start.Cataw_Get_Over_Here_Start
+[2020.05.19-06.48.10:004][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Heavy_Attack.Cataw_Heavy_Attack
+[2020.05.19-06.48.10:004][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Jump_Backwards.Cataw_Jump_Backwards
+[2020.05.19-06.48.10:004][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Jump_Backwards_Right.Cataw_Jump_Backwards_Right
+[2020.05.19-06.48.10:004][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Jump_End.Cataw_Jump_End
+[2020.05.19-06.48.10:004][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Jump_Loop.Cataw_Jump_Loop
+[2020.05.19-06.48.10:004][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_Characters/Cataw/Animations/Cataw_Jump_Start.Cataw_Jump_Start
+[2020.05.19-06.48.10:004][  0]LogMaterial: Display: Missing cached shader map for material Straw_Roof, compiling. 
+[2020.05.19-06.48.10:629][  0]LogMeshUtilities: Finished distance field build in 9.2s - 64x64x64 distance field, 3968 triangles, Range [-0.1, 1.0], EditorSkySphere
+[2020.05.19-06.48.10:629][  0]LogMeshUtilities: Finished distance field build in 0.1s - 10x10x33 distance field, 216 triangles, Range [-0.1, 0.4], Plain_1_01_Cylinder047
+[2020.05.19-06.48.10:629][  0]LogMaterial: Display: Missing cached shader map for material Wood_Bars___Ropes, compiling. 
+[2020.05.19-06.48.10:671][  0]LogMaterial: Display: Missing cached shader map for material Tipi_B, compiling. 
+[2020.05.19-06.48.10:691][  0]LogMaterial: Display: Missing cached shader map for material Wood_Planks, compiling. 
+[2020.05.19-06.48.10:716][  0]LogMeshUtilities: Finished distance field build in 0.1s - 21x21x8 distance field, 216 triangles, Range [-0.1, 0.7], Plain_1_01_Cylinder020
+[2020.05.19-06.48.10:716][  0]LogMaterial: Display: Missing cached shader map for material Totem_Quetzalcoatlus_Painted, compiling. 
+[2020.05.19-06.48.10:748][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x33 distance field, 56 triangles, Range [-0.0, 0.4], Plain_Wood_Bar
+[2020.05.19-06.48.10:748][  0]LogMaterial: Display: Missing cached shader map for material Tipi_A, compiling. 
+[2020.05.19-06.48.10:766][  0]LogStaticMesh: Building static mesh Tipi_Tipi...
+[2020.05.19-06.48.10:800][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x18 distance field, 170 triangles, Range [-0.0, 1.0], Weapons_Weapon_Knife
+[2020.05.19-06.48.10:800][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Stages/Stage_Plain_01/Models/Tipi_Tipi.Tipi_Tipi
+[2020.05.19-06.48.10:808][  0]LogMaterial: Display: Missing cached shader map for material Sampema_Body, compiling. 
+[2020.05.19-06.48.11:169][  0]LogMeshUtilities: Finished distance field build in 0.2s - 11x10x64 distance field, 326 triangles, Range [-0.0, 1.0], Weapons_Weapon_Spear
+[2020.05.19-06.48.11:169][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x9 distance field, 212 triangles, Range [-0.0, 0.7], Weapons_Flute
+[2020.05.19-06.48.11:169][  0]LogMaterial: Display: Missing cached shader map for material Sampema_Pipe1, compiling. 
+[2020.05.19-06.48.11:248][  0]LogMaterial: Display: Missing cached shader map for material Plain_01_Material, compiling. 
+[2020.05.19-06.48.11:283][  0]LogMaterial: Display: Missing cached shader map for material Moss_Decal, compiling. 
+[2020.05.19-06.48.11:401][  0]LogMaterial: Display: Missing cached shader map for material Weapons, compiling. 
+[2020.05.19-06.48.11:476][  0]LogMaterial: Display: Missing cached shader map for material Totem_Brachi_Regali, compiling. 
+[2020.05.19-06.48.11:647][  0]LogMaterial: Display: Missing cached shader map for material Plain_01_Material, compiling. 
+[2020.05.19-06.48.11:778][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 991

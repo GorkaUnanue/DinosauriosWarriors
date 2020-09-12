@@ -1,0 +1,1691 @@
+﻿Log file open, 02/19/20 21:30:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Ancient_Warriors
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.413091
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.19-20.30.22:265][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.19-20.30.22:265][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.19-20.30.22:265][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.02.19-20.30.22:265][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.02.19-20.30.22:266][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.19-20.30.22:266][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.02.19-20.30.22:266][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.02.19-20.30.22:269][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.19-20.30.22:269][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.19-20.30.22:270][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.19-20.30.22:270][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.19-20.30.22:296][  0]LogHAL: Display: Platform has ~ 16 GB [17016332288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.19-20.30.22:296][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.19-20.30.22:296][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.19-20.30.22:296][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.19-20.30.22:297][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Dinosaurios/Game/Ancient_Warriors/Saved/Config/Windows/Engine.ini]
+[2020.02.19-20.30.22:298][  0]LogInit: Computer: DESKTOP-0V54JMG
+[2020.02.19-20.30.22:298][  0]LogInit: User: Gorka
+[2020.02.19-20.30.22:298][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.02.19-20.30.22:298][  0]LogInit: High frequency timer resolution =2.156252 MHz
+[2020.02.19-20.30.22:298][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.02.19-20.30.22:298][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.19-20.30.22:298][  0]LogMemory: Process Physical Memory: 98.28 MB used, 98.28 MB peak
+[2020.02.19-20.30.22:298][  0]LogMemory: Process Virtual Memory: 89.70 MB used, 89.70 MB peak
+[2020.02.19-20.30.22:298][  0]LogMemory: Physical Memory: 6000.31 MB used,  10227.73 MB free, 16228.04 MB total
+[2020.02.19-20.30.22:298][  0]LogMemory: Virtual Memory: 4656.50 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.02.19-20.30.22:328][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.02.19-20.30.22:329][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.02.19-20.30.22:329][  0]LogInit: Using OS detected locale (es-ES).
+[2020.02.19-20.30.22:476][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.19-20.30.22:503][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.19-20.30.22:503][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.19-20.30.22:686][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.19-20.30.22:686][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.19-20.30.22:750][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.02.19-20.30.22:751][  0]LogD3D11RHI:       8081/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.19-20.30.22:772][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.02.19-20.30.22:772][  0]LogD3D11RHI:       128/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.19-20.30.22:774][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.19-20.30.22:774][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.19-20.30.22:774][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.19-20.30.22:800][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.19-20.30.22:800][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.19-20.30.22:800][  0]LogWindows: EnumDisplayDevices:
+[2020.02.19-20.30.22:800][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.02.19-20.30.22:800][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.19-20.30.22:801][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.19-20.30.22:801][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.19-20.30.22:802][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.19-20.30.22:802][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.19-20.30.22:802][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.19-20.30.22:802][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.02.19-20.30.22:802][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.02.19-20.30.22:802][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2020.02.19-20.30.22:802][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2020.02.19-20.30.22:802][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2020.02.19-20.30.22:837][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.19-20.30.22:840][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.19-20.30.22:840][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.19-20.30.22:840][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.19-20.30.22:853][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.02.19-20.30.23:113][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.19-20.30.23:125][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.19-20.30.23:138][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.19-20.30.23:150][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.19-20.30.23:163][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.19-20.30.23:174][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.19-20.30.23:186][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.19-20.30.23:198][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.19-20.30.23:204][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.19-20.30.23:271][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.19-20.30.23:273][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.19-20.30.23:319][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.19-20.30.23:319][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.19-20.30.23:339][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.19-20.30.23:339][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.19-20.30.23:350][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.19-20.30.23:360][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.19-20.30.23:371][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.19-20.30.23:382][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.19-20.30.23:419][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.19-20.30.23:419][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.19-20.30.23:419][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.19-20.30.23:428][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.19-20.30.23:480][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (G:/Dinosaurios/Game/Ancient_Warriors/Intermediate/Shaders/WorkingDirectory/12728/).
+[2020.02.19-20.30.23:480][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gorka/AppData/Local/Temp/UnrealShaderWorkingDir/400D286A42C84E939539648C0B8A0A70/'.
+[2020.02.19-20.30.23:483][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.19-20.30.23:483][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.19-20.30.23:483][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.19-20.30.23:971][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.19-20.30.24:017][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Gorka/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.19-20.30.24:017][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gorka/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.19-20.30.24:017][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Dinosaurios/Game/Ancient_Warriors/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.19-20.30.24:017][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.19-20.30.24:017][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Dinosaurios/Game/Ancient_Warriors/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.19-20.30.24:017][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.19-20.30.24:028][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.19-20.30.24:028][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.19-20.30.24:028][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.19-20.30.24:040][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gorka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.19-20.30.24:040][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.19-20.30.24:040][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.19-20.30.24:059][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.19-20.30.24:060][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.19-20.30.24:060][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.19-20.30.24:148][  0]LogAssetRegistry: FAssetRegistry took 0.0322 seconds to start up
+[2020.02.19-20.30.24:417][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.19-20.30.24:567][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.19-20.30.24:567][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.19-20.30.24:567][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.19-20.30.24:567][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.19-20.30.24:567][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.19-20.30.24:583][  0]LogNetVersion: Ancient_Warriors 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1325908795)
+[2020.02.19-20.30.25:088][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.120825 seconds
+[2020.02.19-20.30.25:093][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.19-20.30.25:093][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.19-20.30.25:093][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.19-20.30.25:941][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.19-20.30.25:955][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.19-20.30.26:056][  0]SourceControl: Source control is disabled
+[2020.02.19-20.30.26:056][  0]SourceControl: Source control is disabled
+[2020.02.19-20.30.26:057][  0]SourceControl: Source control is disabled
+[2020.02.19-20.30.26:058][  0]SourceControl: Source control is disabled
+[2020.02.19-20.30.26:066][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.19-20.30.26:066][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.19-20.30.26:128][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.19-20.30.26:177][  0]LogOcInput: OculusInput pre-init called
+[2020.02.19-20.30.26:873][  0]LogEngine: Initializing Engine...
+[2020.02.19-20.30.26:874][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.19-20.30.26:875][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.19-20.30.27:061][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.19-20.30.27:076][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.19-20.30.27:082][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-20.30.27:214][  0]LogInit: FAudioDevice initialized.
+[2020.02.19-20.30.27:214][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.19-20.30.27:292][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Gorka/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.19-20.30.27:292][  0]LogInit: Texture streaming: Enabled
+[2020.02.19-20.30.27:312][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.19-20.30.27:331][  0]LogInit: Transaction tracking system initialized
+[2020.02.19-20.30.27:356][  0]BlueprintLog: New page: Editor Load
+[2020.02.19-20.30.27:440][  0]LocalizationService: Localization service is disabled
+[2020.02.19-20.30.27:597][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.19-20.30.27:598][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.19-20.30.27:755][  0]LogFileCache: Scanning file cache for directory 'G:/Dinosaurios/Game/Ancient_Warriors/Content/' took 0.02s
+[2020.02.19-20.30.27:755][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.19-20.30.27:755][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.19-20.30.27:920][  0]SourceControl: Source control is disabled
+[2020.02.19-20.30.27:920][  0]Cmd: MAP LOAD FILE="G:/Dinosaurios/Game/Ancient_Warriors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.19-20.30.27:934][  0]LightingResults: New page: Lighting Build
+[2020.02.19-20.30.27:937][  0]MapCheck: New page: Map Check
+[2020.02.19-20.30.27:937][  0]LightingResults: New page: Lighting Build
+[2020.02.19-20.30.27:968][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.02.19-20.30.31:016][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-20.30.31:032][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.19-20.30.31:060][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.02.19-20.30.31:060][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.19-20.30.31:060][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,097ms to complete.
+[2020.02.19-20.30.31:060][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.140
+[2020.02.19-20.30.31:186][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-20.30.31:193][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-20.30.31:199][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-20.30.31:205][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-20.30.31:219][  0]LogCollectionManager: Loaded 0 collections in 0.001965 seconds
+[2020.02.19-20.30.31:260][  0]LogFileCache: Scanning file cache for directory 'G:/Dinosaurios/Game/Ancient_Warriors/Saved/Collections/' took 0.01s
+[2020.02.19-20.30.31:260][  0]LogFileCache: Scanning file cache for directory 'G:/Dinosaurios/Game/Ancient_Warriors/Content/Developers/Gorka/Collections/' took 0.00s
+[2020.02.19-20.30.31:260][  0]LogFileCache: Scanning file cache for directory 'G:/Dinosaurios/Game/Ancient_Warriors/Content/Collections/' took 0.00s
+[2020.02.19-20.30.31:260][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.19-20.30.31:271][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2732 classes and 659 folders.
+[2020.02.19-20.30.31:284][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.19-20.30.31:291][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:296][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:298][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:301][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:303][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:305][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:312][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:314][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:316][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:318][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:320][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:322][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:324][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:326][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:328][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:333][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:337][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.19-20.30.31:434][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.19-20.30.31:453][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.02.19-20.30.31:762][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.19-20.30.31:764][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.19-20.30.31:769][  0]LogSlate: Took 0.000878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.19-20.30.31:833][  0]LogRenderer: Reallocating scene render targets to support 1216x572 Format 10 NumSamples 1 (Frame:1).
+[2020.02.19-20.30.31:999][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.19-20.30.31:999][  0]LogLoad: (Engine Initialization) Total time: 13.59 seconds
+[2020.02.19-20.30.31:999][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.19-20.30.32:041][  0]LogAssetRegistry: Asset discovery search completed in 7.9160 seconds
+[2020.02.19-20.30.32:043][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.19-20.30.32:043][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2020.02.19-20.30.32:045][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.19-20.30.32:070][  0]LogSlate: Took 0.001321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.19-20.30.38:702][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.02.19-20.30.40:524][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-20.30.40:632][583]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-20.30.40:643][583]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-20.30.40:643][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-20.30.40:645][583]PIE: New page: PIE session: ThirdPersonExampleMap (19/2/2020 22:30:40)
+[2020.02.19-20.30.40:657][583]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.02.19-20.30.40:683][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025765s)
+[2020.02.19-20.30.40:684][583]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-20.30.40:684][583]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2020.02.19-20.30.40:684][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026711s)
+[2020.02.19-20.30.40:713][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.02.19-20.30.40:719][583]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-20.30.40:773][583]LogInit: FAudioDevice initialized.
+[2020.02.19-20.30.40:819][583]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-20.30.40:823][583]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.19-21.30.40
+[2020.02.19-20.30.40:823][583]LogWorld: Bringing up level for play took: 0.002342
+[2020.02.19-20.30.40:854][583]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.02.19-20.30.40:855][583]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-20.30.40:856][583]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.02.19-20.30.40:856][583]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-20.30.40:857][583]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.02.19-20.30.40:857][583]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.02.19-20.30.40:857][583]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.02.19-20.30.40:858][583]LogInit: WinSock: I am DESKTOP-0V54JMG (192.168.0.17:0)
+[2020.02.19-20.30.40:859][583]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-20.30.40:859][583]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2020.02.19-20.30.40:865][583]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap 1,154
+[2020.02.19-20.30.40:869][583]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-20.30.40:875][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-20.30.40:915][583]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.02.19-20.30.40:915][583]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-20.30.40:915][583]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2020.02.19-20.30.40:915][583]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.02.19-20.30.40:916][583]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.02.19-20.30.40:916][583]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-20.30.40:916][583]LogNet: Game client on port 17777, rate 10000
+[2020.02.19-20.30.40:919][583]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 1,209
+[2020.02.19-20.30.40:927][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-20.30.40:928][583]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54243
+[2020.02.19-20.30.40:928][583]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 158056252109130138224177097102175144014165199024113098254158
+[2020.02.19-20.30.40:936][583]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 158056252109130138224177097102175144014165199024113098254158
+[2020.02.19-20.30.40:948][584]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54243
+[2020.02.19-20.30.40:948][584]LogHandshake: SendChallengeAck. InCookie: 158056252109130138224177097102175144014165199024113098254158
+[2020.02.19-20.30.40:948][584]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54243
+[2020.02.19-20.30.40:949][584]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-20.30.40:949][584]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 02/19/20 21:30:40, [UNetConnection] RemoteAddr: 127.0.0.1:54243, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-20.30.40:949][584]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54243, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-20.30.40:951][584]LogNetVersion: Ancient_Warriors 1.0.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1630389328)
+[2020.02.19-20.30.40:951][584]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-20.30.40:983][585]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2020.02.19-20.30.40:983][585]LogNet: Remote platform little endian=1
+[2020.02.19-20.30.40:983][585]LogNet: This platform little endian=1
+[2020.02.19-20.30.41:006][586]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-0V54JMG-0968F83C4AB1063BE2CF30870258546D userId: NULL:DESKTOP-0V54JMG-0968F83C4AB1063BE2CF30870258546D platform: NULL
+[2020.02.19-20.30.41:007][586]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2020.02.19-20.30.41:007][586]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2020.02.19-20.30.41:032][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.02.19-20.30.41:061][586]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.19-20.30.41:061][586]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-20.30.41:064][586]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.19-21.30.41
+[2020.02.19-20.30.41:065][586]LogWorld: Bringing up level for play took: 0.001963
+[2020.02.19-20.30.41:065][586]LogLoad: Took 0.058611 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2020.02.19-20.30.41:081][587]LogNet: Client netspeed is 10000
+[2020.02.19-20.30.41:081][587]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-0V54JMG-0968F83C4AB1063BE2CF30870258546D?SplitscreenCount=1
+[2020.02.19-20.30.41:082][587]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-20.30.41:086][587]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2020.02.19-20.30.41:086][587]LogNet: Join succeeded: DESKTOP-0V54JMG-0968
+[2020.02.19-20.30.41:131][589]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-20.30.41:142][590]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-20.30.44:920][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-20.30.44:920][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-20.30.44:931][934]LogSlate: Window 'Ancient_Warriors Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-20.30.44:962][934]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2020.02.19-20.30.44:962][934]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2020.02.19-20.30.44:962][934]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-0968F83C4AB1063BE2CF30870258546D, Channels: 10, Time: 2020.02.19-20.30.44
+[2020.02.19-20.30.44:962][934]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-0968F83C4AB1063BE2CF30870258546D
+[2020.02.19-20.30.44:962][934]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2020.02.19-20.30.44:963][934]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.02.19-20.30.44:963][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-20.30.44:988][934]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2020.02.19-20.30.44:988][934]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2020.02.19-20.30.44:988][934]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:54243, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-0968F83C4AB1063BE2CF30870258546D
+[2020.02.19-20.30.44:988][934]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54243, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-0968F83C4AB1063BE2CF30870258546D, Channels: 10, Time: 2020.02.19-20.30.44
+[2020.02.19-20.30.44:988][934]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54243, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-0968F83C4AB1063BE2CF30870258546D
+[2020.02.19-20.30.44:988][934]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2020.02.19-20.30.44:989][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-20.30.44:989][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.19-20.30.45:016][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-20.30.45:020][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.02.19-20.30.45:032][935]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.19-20.30.45:032][935]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.19-20.30.46:180][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-20.30.54:682][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-20.30.56:863][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.02.19-20.30.56:864][880]Cmd: MAP LOAD FILE="G:/Dinosaurios/Game/Ancient_Warriors/Content/ThirdPersonBP/Maps/Stage_1_Plain_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.19-20.30.56:868][880]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.19-20.30.56:886][880]LightingResults: New page: Lighting Build
+[2020.02.19-20.30.56:887][880]LoadErrors: New page: Loading map: Stage_1_Plain_1.umap
+[2020.02.19-20.30.56:889][880]MapCheck: New page: Map Check
+[2020.02.19-20.30.56:889][880]LightingResults: New page: Lighting Build
+[2020.02.19-20.30.56:916][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.19-20.30.59:437][880]LogAIModule: Creating AISystem for world Stage_1_Plain_1
+[2020.02.19-20.31.00:188][880]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.19-20.31.00:216][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.02.19-20.31.00:256][880]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.19-20.31.00:256][880]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,093ms to complete.
+[2020.02.19-20.31.00:256][880]LogFileHelpers: Loading map 'Stage_1_Plain_1' took 3.392
+[2020.02.19-20.31.00:256][880]LogSlate: Window 'Open Level' being destroyed
+[2020.02.19-20.47.47:255][974]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2020.02.19-20.47.48:724][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-20.47.49:073][ 69]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.02.19-20.50.55:484][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-21.02.01:309][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-21.02.09:580][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-21.02.14:980][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-21.02.27:232][974]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-21.02.34:010][381]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2020.02.19-21.02.45:799][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-21.02.48:316][231]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 64X64)
+[2020.02.19-21.02.48:346][231]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 64X64)
+[2020.02.19-21.02.48:355][231]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2020.02.19-21.02.48:374][231]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2020.02.19-21.02.48:384][231]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2020.02.19-21.02.48:404][231]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2020.02.19-21.02.48:412][231]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.02.19-21.02.48:431][231]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.02.19-21.02.48:439][231]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2020.02.19-21.02.48:457][231]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2020.02.19-21.02.48:466][231]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2020.02.19-21.02.48:486][231]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2020.02.19-21.02.48:495][231]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.02.19-21.02.48:514][231]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.02.19-21.02.48:526][231]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.02.19-21.02.48:545][231]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.02.19-21.02.48:569][231]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.19-21.02.48:587][231]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.19-21.02.48:596][231]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.19-21.02.48:616][231]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.19-21.02.48:625][231]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.02.19-21.02.48:645][231]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.02.19-21.02.48:653][231]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2020.02.19-21.02.48:675][231]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2020.02.19-21.02.48:683][231]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2020.02.19-21.02.48:704][231]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2020.02.19-21.02.48:714][231]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2020.02.19-21.02.48:736][231]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2020.02.19-21.02.48:744][231]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2020.02.19-21.02.48:765][231]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2020.02.19-21.02.48:774][231]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2020.02.19-21.02.48:795][231]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2020.02.19-21.02.48:803][231]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.19-21.02.48:824][231]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.19-21.02.48:832][231]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2020.02.19-21.02.48:853][231]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2020.02.19-21.02.48:862][231]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2020.02.19-21.02.48:881][231]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2020.02.19-21.02.48:890][231]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2020.02.19-21.02.48:910][231]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2020.02.19-21.02.48:918][231]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2020.02.19-21.02.48:938][231]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2020.02.19-21.02.48:947][231]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2020.02.19-21.02.48:968][231]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2020.02.19-21.02.48:976][231]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2020.02.19-21.02.48:997][231]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2020.02.19-21.02.49:006][231]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2020.02.19-21.02.49:026][231]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2020.02.19-21.02.49:035][231]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2020.02.19-21.02.49:056][231]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2020.02.19-21.02.49:065][231]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2020.02.19-21.02.49:090][231]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2020.02.19-21.02.49:099][231]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2020.02.19-21.02.49:119][231]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2020.02.19-21.02.49:128][231]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2020.02.19-21.02.49:148][231]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2020.02.19-21.02.49:157][231]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2020.02.19-21.02.49:177][231]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2020.02.19-21.02.49:186][231]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2020.02.19-21.02.49:206][231]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2020.02.19-21.02.49:214][231]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2020.02.19-21.02.49:236][231]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2020.02.19-21.02.49:244][231]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2020.02.19-21.02.49:265][231]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2020.02.19-21.02.49:273][231]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2020.02.19-21.02.49:294][231]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2020.02.19-21.02.49:303][231]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2020.02.19-21.02.49:325][231]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2020.02.19-21.02.49:334][231]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2020.02.19-21.02.49:355][231]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2020.02.19-21.02.49:363][231]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2020.02.19-21.02.49:383][231]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2020.02.19-21.02.49:392][231]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2020.02.19-21.02.49:413][231]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2020.02.19-21.02.49:421][231]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2020.02.19-21.02.49:441][231]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2020.02.19-21.02.49:450][231]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2020.02.19-21.02.49:473][231]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2020.02.19-21.02.49:482][231]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2020.02.19-21.02.49:503][231]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2020.02.19-21.02.49:534][231]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2020.02.19-21.02.49:555][231]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2020.02.19-21.02.49:564][231]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2020.02.19-21.02.49:585][231]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2020.02.19-21.02.49:593][231]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2020.02.19-21.02.49:615][231]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2020.02.19-21.02.49:624][231]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2020.02.19-21.02.49:644][231]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2020.02.19-21.02.49:654][231]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2020.02.19-21.02.49:673][231]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2020.02.19-21.02.49:682][231]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2020.02.19-21.02.49:702][231]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2020.02.19-21.02.49:711][231]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2020.02.19-21.02.49:731][231]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2020.02.19-21.02.49:740][231]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2020.02.19-21.02.49:761][231]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2020.02.19-21.02.49:789][231]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2020.02.19-21.02.49:812][231]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2020.02.19-21.02.49:821][231]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2020.02.19-21.02.49:844][231]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2020.02.19-21.02.49:852][231]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2020.02.19-21.02.49:875][231]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2020.02.19-21.02.49:883][231]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2020.02.19-21.02.49:904][231]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2020.02.19-21.02.49:913][231]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2020.02.19-21.02.49:933][231]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2020.02.19-21.02.49:941][231]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2020.02.19-21.02.49:962][231]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2020.02.19-21.02.49:970][231]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2020.02.19-21.02.49:990][231]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2020.02.19-21.02.49:999][231]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2020.02.19-21.02.50:020][231]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2020.02.19-21.02.50:036][231]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2020.02.19-21.02.50:057][231]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2020.02.19-21.02.50:066][231]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2020.02.19-21.02.50:086][231]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2020.02.19-21.02.50:095][231]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2020.02.19-21.02.50:117][231]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2020.02.19-21.02.50:126][231]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2020.02.19-21.02.50:146][231]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2020.02.19-21.02.50:156][231]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2020.02.19-21.02.50:176][231]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2020.02.19-21.02.50:185][231]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2020.02.19-21.02.50:206][231]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2020.02.19-21.02.50:214][231]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2020.02.19-21.02.50:234][231]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2020.02.19-21.02.50:246][231]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2020.02.19-21.02.50:269][231]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2020.02.19-21.02.54:794][500]Cmd: DELETE
+[2020.02.19-21.02.54:794][500]Cmd: ACTOR DELETE
+[2020.02.19-21.02.54:808][500]LogEditorActor: Deleted Actor: Landscape
+[2020.02.19-21.02.55:088][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.02.19-21.02.55:089][500]LogEditorActor: Deleted 1 Actors (0.292 secs)
+[2020.02.19-21.02.57:105][614]Cmd: TRANSACTION UNDO
+[2020.02.19-21.02.57:105][614]LogEditorTransaction: Undo Delete Actors
+[2020.02.19-21.03.02:105][770]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2020.02.19-21.03.04:478][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-21.03.04:569][916]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2020.02.19-21.03.06:883][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-21.03.40:104][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-21.03.44:680][320]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2020.02.19-21.03.44:693][320]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2020.02.19-21.03.44:702][320]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2020.02.19-21.03.44:715][320]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2020.02.19-21.03.44:724][320]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2020.02.19-21.03.44:736][320]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2020.02.19-21.03.44:745][320]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2020.02.19-21.03.44:758][320]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2020.02.19-21.03.44:768][320]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 64X64)
+[2020.02.19-21.03.44:780][320]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 64X64)
+[2020.02.19-21.03.44:789][320]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 64X64)
+[2020.02.19-21.03.44:802][320]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 64X64)
+[2020.02.19-21.03.44:813][320]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 64X64)
+[2020.02.19-21.03.44:826][320]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 64X64)
+[2020.02.19-21.03.44:834][320]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2020.02.19-21.03.44:847][320]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2020.02.19-21.03.44:856][320]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 64X64)
+[2020.02.19-21.03.44:868][320]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 64X64)
+[2020.02.19-21.03.44:876][320]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 64X64)
+[2020.02.19-21.03.44:888][320]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 64X64)
+[2020.02.19-21.03.44:896][320]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 64X64)
+[2020.02.19-21.03.44:908][320]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 64X64)
+[2020.02.19-21.03.44:917][320]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2020.02.19-21.03.44:930][320]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2020.02.19-21.03.44:938][320]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 64X64)
+[2020.02.19-21.03.44:951][320]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 64X64)
+[2020.02.19-21.03.44:959][320]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 64X64)
+[2020.02.19-21.03.44:972][320]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 64X64)
+[2020.02.19-21.03.44:980][320]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 64X64)
+[2020.02.19-21.03.44:992][320]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 64X64)
+[2020.02.19-21.03.45:000][320]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2020.02.19-21.03.45:013][320]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2020.02.19-21.03.45:021][320]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 64X64)
+[2020.02.19-21.03.45:035][320]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 64X64)
+[2020.02.19-21.03.45:044][320]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2020.02.19-21.03.45:058][320]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2020.02.19-21.03.45:066][320]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2020.02.19-21.03.45:081][320]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2020.02.19-21.03.45:090][320]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2020.02.19-21.03.45:105][320]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2020.02.19-21.03.45:113][320]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2020.02.19-21.03.45:128][320]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2020.02.19-21.03.45:135][320]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2020.02.19-21.03.45:150][320]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2020.02.19-21.03.45:158][320]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2020.02.19-21.03.45:173][320]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2020.02.19-21.03.45:182][320]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 64X64)
+[2020.02.19-21.03.45:196][320]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 64X64)
+[2020.02.19-21.03.45:205][320]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 64X64)
+[2020.02.19-21.03.45:219][320]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 64X64)
+[2020.02.19-21.03.45:227][320]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2020.02.19-21.03.45:241][320]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2020.02.19-21.03.45:250][320]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 64X64)
+[2020.02.19-21.03.45:264][320]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 64X64)
+[2020.02.19-21.03.45:272][320]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2020.02.19-21.03.45:287][320]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2020.02.19-21.03.45:295][320]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2020.02.19-21.03.45:310][320]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2020.02.19-21.03.45:318][320]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2020.02.19-21.03.45:333][320]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2020.02.19-21.03.45:341][320]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2020.02.19-21.03.45:356][320]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2020.02.19-21.03.45:364][320]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2020.02.19-21.03.45:379][320]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2020.02.19-21.03.45:387][320]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2020.02.19-21.03.45:401][320]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2020.02.19-21.03.45:410][320]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 64X64)
+[2020.02.19-21.03.45:424][320]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 64X64)
+[2020.02.19-21.03.45:433][320]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2020.02.19-21.03.45:447][320]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2020.02.19-21.03.45:459][320]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2020.02.19-21.03.45:473][320]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2020.02.19-21.03.45:481][320]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 64X64)
+[2020.02.19-21.03.45:495][320]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 64X64)
+[2020.02.19-21.03.45:504][320]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2020.02.19-21.03.45:517][320]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2020.02.19-21.03.45:525][320]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2020.02.19-21.03.45:540][320]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2020.02.19-21.03.49:999][586]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2020.02.19-21.03.50:011][586]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2020.02.19-21.03.50:200][597]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 64X64)
+[2020.02.19-21.03.50:214][597]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 64X64)
+[2020.02.19-21.03.50:550][617]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 64X64)
+[2020.02.19-21.03.50:562][617]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 64X64)
+[2020.02.19-21.03.50:718][626]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 64X64)
+[2020.02.19-21.03.50:730][626]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 64X64)
+[2020.02.19-21.03.50:935][638]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 64X64)
+[2020.02.19-21.03.50:947][638]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 64X64)
+[2020.02.19-21.03.51:135][649]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2020.02.19-21.03.51:147][649]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2020.02.19-21.03.51:336][660]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2020.02.19-21.03.51:349][660]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2020.02.19-21.03.51:471][667]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2020.02.19-21.03.51:483][667]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2020.02.19-21.03.51:589][673]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2020.02.19-21.03.51:600][673]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2020.02.19-21.03.51:721][680]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2020.02.19-21.03.51:732][680]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2020.02.19-21.03.51:921][691]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 64X64)
+[2020.02.19-21.03.51:934][691]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 64X64)
+[2020.02.19-21.03.52:089][700]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2020.02.19-21.03.52:100][700]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2020.02.19-21.03.52:439][720]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2020.02.19-21.03.52:450][720]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2020.02.19-21.03.52:721][736]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2020.02.19-21.03.52:732][736]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2020.02.19-21.03.52:837][742]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2020.02.19-21.03.52:848][742]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2020.02.19-21.03.52:953][748]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2020.02.19-21.03.52:963][748]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2020.02.19-21.03.53:051][753]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 64X64)
+[2020.02.19-21.03.53:062][753]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 64X64)
+[2020.02.19-21.03.53:181][760]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 64X64)
+[2020.02.19-21.03.53:192][760]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 64X64)
+[2020.02.19-21.03.53:246][763]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 64X64)
+[2020.02.19-21.03.53:258][763]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 64X64)
+[2020.02.19-21.03.53:345][768]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 64X64)
+[2020.02.19-21.03.53:356][768]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 64X64)
+[2020.02.19-21.03.53:444][773]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 64X64)
+[2020.02.19-21.03.53:455][773]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 64X64)
+[2020.02.19-21.03.53:576][780]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 64X64)
+[2020.02.19-21.03.53:587][780]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 64X64)
+[2020.02.19-21.03.53:776][791]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 64X64)
+[2020.02.19-21.03.53:787][791]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 64X64)
+[2020.02.19-21.03.53:907][798]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 64X64)
+[2020.02.19-21.03.53:918][798]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 64X64)
+[2020.02.19-21.03.54:204][815]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2020.02.19-21.03.54:215][815]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2020.02.19-21.03.54:421][827]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 64X64)
+[2020.02.19-21.03.54:432][827]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 64X64)
+[2020.02.19-21.03.54:537][833]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 64X64)
+[2020.02.19-21.03.54:549][833]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 64X64)
+[2020.02.19-21.03.54:637][838]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 64X64)
+[2020.02.19-21.03.54:648][838]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 64X64)
+[2020.02.19-21.03.54:736][843]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 64X64)
+[2020.02.19-21.03.54:747][843]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 64X64)
+[2020.02.19-21.03.54:852][849]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 64X64)
+[2020.02.19-21.03.54:863][849]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 64X64)
+[2020.02.19-21.03.55:318][876]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 64X64)
+[2020.02.19-21.03.55:329][876]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 64X64)
+[2020.02.19-21.03.55:367][878]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 64X64)
+[2020.02.19-21.03.55:379][878]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 64X64)
+[2020.02.19-21.03.55:548][888]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 64X64)
+[2020.02.19-21.03.55:559][888]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 64X64)
+[2020.02.19-21.03.55:583][889]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 64X64)
+[2020.02.19-21.03.55:595][889]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 64X64)
+[2020.02.19-21.03.55:667][893]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 64X64)
+[2020.02.19-21.03.55:678][893]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 64X64)
+[2020.02.19-21.03.56:300][930]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 64X64)
+[2020.02.19-21.03.56:310][930]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 64X64)
+[2020.02.19-21.03.56:731][955]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2020.02.19-21.03.56:742][955]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2020.02.19-21.03.56:847][961]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 64X64)
+[2020.02.19-21.03.56:859][961]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 64X64)
+[2020.02.19-21.03.56:979][968]LogTexture: Display: Building textures: Texture2D_141 (BGRA8, 64X64)
+[2020.02.19-21.03.56:989][968]LogTexture: Display: Building textures: Texture2D_141 (BGRA8, 64X64)
+[2020.02.19-21.03.57:109][975]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 64X64)
+[2020.02.19-21.03.57:120][975]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 64X64)
+[2020.02.19-21.03.57:274][984]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 64X64)
+[2020.02.19-21.03.57:285][984]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 64X64)
+[2020.02.19-21.03.57:406][991]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 64X64)
+[2020.02.19-21.03.57:416][991]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 64X64)
+[2020.02.19-21.03.57:603][  2]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 64X64)
+[2020.02.19-21.03.57:615][  2]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 64X64)
+[2020.02.19-21.03.57:770][ 11]LogTexture: Display: Building textures: Texture2D_146 (BGRA8, 64X64)
+[2020.02.19-21.03.57:781][ 11]LogTexture: Display: Building textures: Texture2D_146 (BGRA8, 64X64)
+[2020.02.19-21.03.57:903][ 18]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 64X64)
+[2020.02.19-21.03.57:915][ 18]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 64X64)
+[2020.02.19-21.03.58:004][ 23]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 64X64)
+[2020.02.19-21.03.58:015][ 23]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 64X64)
+[2020.02.19-21.03.58:119][ 29]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 64X64)
+[2020.02.19-21.03.58:129][ 29]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 64X64)
+[2020.02.19-21.03.58:250][ 36]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 64X64)
+[2020.02.19-21.03.58:261][ 36]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 64X64)
+[2020.02.19-21.03.58:498][ 50]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 64X64)
+[2020.02.19-21.03.58:509][ 50]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 64X64)
+[2020.02.19-21.03.58:714][ 62]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 64X64)
+[2020.02.19-21.03.58:725][ 62]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 64X64)
+[2020.02.19-21.03.58:779][ 65]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 64X64)
+[2020.02.19-21.03.58:789][ 65]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 64X64)
+[2020.02.19-21.03.58:828][ 67]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 64X64)
+[2020.02.19-21.03.58:838][ 67]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 64X64)
+[2020.02.19-21.03.59:893][130]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 64X64)
+[2020.02.19-21.03.59:904][130]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 64X64)
+[2020.02.19-21.03.59:958][133]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 64X64)
+[2020.02.19-21.03.59:969][133]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 64X64)
+[2020.02.19-21.04.00:055][138]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 64X64)
+[2020.02.19-21.04.00:066][138]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 64X64)
+[2020.02.19-21.04.00:153][143]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 64X64)
+[2020.02.19-21.04.00:164][143]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 64X64)
+[2020.02.19-21.04.00:249][148]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 64X64)
+[2020.02.19-21.04.00:259][148]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 64X64)
+[2020.02.19-21.04.00:312][151]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 64X64)
+[2020.02.19-21.04.00:322][151]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 64X64)
+[2020.02.19-21.04.00:426][157]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 64X64)
+[2020.02.19-21.04.00:437][157]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 64X64)
+[2020.02.19-21.04.00:557][164]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 64X64)
+[2020.02.19-21.04.00:567][164]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 64X64)
+[2020.02.19-21.04.39:826][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.02.19-21.04.40:230][103]LogTexture: Display: Building textures: Texture2D_751 (BGRA8, 512X512)
+[2020.02.19-21.04.40:241][103]LogTexture: Display: Building textures: Texture2D_752 (BGRA8, 256X512)
+[2020.02.19-21.04.40:247][103]LogTexture: Display: Building textures: Texture2D_753 (BGRA8, 512X512)
+[2020.02.19-21.04.40:256][103]LogTexture: Display: Building textures: Texture2D_754 (BGRA8, 256X512)
+[2020.02.19-21.04.40:457][103]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2020.02.19-21.04.40:462][103]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2020.02.19-21.04.40:463][103]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2020.02.19-21.04.40:464][103]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2020.02.19-21.04.40:464][103]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2020.02.19-21.04.40:465][103]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2020.02.19-21.04.40:466][103]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2020.02.19-21.04.40:466][103]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2020.02.19-21.04.40:467][103]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2020.02.19-21.04.40:467][103]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 64X64)
+[2020.02.19-21.04.40:467][103]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2020.02.19-21.04.40:468][103]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2020.02.19-21.04.40:469][103]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2020.02.19-21.04.40:469][103]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2020.02.19-21.04.40:470][103]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2020.02.19-21.04.40:470][103]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2020.02.19-21.04.40:471][103]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2020.02.19-21.04.40:473][103]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2020.02.19-21.04.40:473][103]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2020.02.19-21.04.40:474][103]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2020.02.19-21.04.40:474][103]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2020.02.19-21.04.40:475][103]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 64X64)
+[2020.02.19-21.04.40:475][103]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2020.02.19-21.04.41:268][103]LogSavePackage: Moving 'G:/Dinosaurios/Game/Ancient_Warriors/Saved/Stage_1_Plain_1_Auto152F7982F4F8F38C217B807B7E613384A.tmp' to 'G:/Dinosaurios/Game/Ancient_Warriors/Saved/Autosaves/Game/ThirdPersonBP/Maps/Stage_1_Plain_1_Auto1.umap'
+[2020.02.19-21.04.41:277][103]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1' took 1.485
+[2020.02.19-21.04.41:277][103]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.485
+[2020.02.19-21.07.31:695][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-21.22.11:534][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-21.22.18:653][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-21.33.11:877][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-21.33.43:671][705]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2020.02.19-21.33.46:609][874]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-21.40.35:822][365]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2020.02.19-21.41.00:308][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-21.41.01:625][913]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2020.02.19-21.41.03:363][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-21.41.04:495][ 85]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2020.02.19-21.41.30:035][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-21.44.00:783][827]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2020.02.19-21.44.01:942][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-21.44.37:459][878]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2020.02.19-21.44.49:850][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-21.46.55:988][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-21.47.08:997][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-21.47.17:195][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-21.47.41:745][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-21.48.24:840][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.02.19-21.48.25:881][ 93]LogSavePackage: Moving 'G:/Dinosaurios/Game/Ancient_Warriors/Saved/Stage_1_Plain_1_Auto29AB54D25460A5C570E27B0803BDC1570.tmp' to 'G:/Dinosaurios/Game/Ancient_Warriors/Saved/Autosaves/Game/ThirdPersonBP/Maps/Stage_1_Plain_1_Auto2.umap'
+[2020.02.19-21.48.25:887][ 93]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1' took 1.078
+[2020.02.19-21.48.25:888][ 93]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.078
+[2020.02.19-21.59.42:286][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-21.59.48:869][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-21.59.48:986][313]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-21.59.49:088][313]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-21.59.49:088][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-21.59.49:088][313]PIE: New page: PIE session: Stage_1_Plain_1 (19/2/2020 23:59:49)
+[2020.02.19-21.59.49:088][313]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1
+[2020.02.19-21.59.49:157][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068830s)
+[2020.02.19-21.59.49:158][313]LogAIModule: Creating AISystem for world Stage_1_Plain_1
+[2020.02.19-21.59.49:158][313]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2020.02.19-21.59.49:159][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1 to /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1 (0.070353s)
+[2020.02.19-21.59.49:186][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.02.19-21.59.49:191][313]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-21.59.49:250][313]LogInit: FAudioDevice initialized.
+[2020.02.19-21.59.49:289][313]LogLoad: Game class is 'BeatemupGameMode_C'
+[2020.02.19-21.59.49:304][313]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1 up for play (max tick rate 60) at 2020.02.19-22.59.49
+[2020.02.19-21.59.49:304][313]LogWorld: Bringing up level for play took: 0.014756
+[2020.02.19-21.59.49:321][313]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-21.59.49:321][313]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2020.02.19-21.59.49:321][313]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-21.59.49:321][313]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.02.19-21.59.49:321][313]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.02.19-21.59.49:321][313]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.02.19-21.59.49:321][313]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-21.59.49:321][313]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2020.02.19-21.59.49:323][313]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1 -0,388
+[2020.02.19-21.59.49:329][313]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-21.59.49:334][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-21.59.49:365][313]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.02.19-21.59.49:365][313]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-21.59.49:365][313]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2020.02.19-21.59.49:365][313]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.02.19-21.59.49:365][313]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.02.19-21.59.49:366][313]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-21.59.49:366][313]LogNet: Game client on port 17777, rate 10000
+[2020.02.19-21.59.49:371][313]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -0,339
+[2020.02.19-21.59.49:376][313]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-21.59.49:376][313]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50852
+[2020.02.19-21.59.49:376][313]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 123143255242044218034025051038206164243206255047050255118032
+[2020.02.19-21.59.49:381][313]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 123143255242044218034025051038206164243206255047050255118032
+[2020.02.19-21.59.49:392][314]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50852
+[2020.02.19-21.59.49:392][314]LogHandshake: SendChallengeAck. InCookie: 123143255242044218034025051038206164243206255047050255118032
+[2020.02.19-21.59.49:393][314]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50852
+[2020.02.19-21.59.49:393][314]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-21.59.49:393][314]LogNet: NotifyAcceptedConnection: Name: Stage_1_Plain_1, TimeStamp: 02/19/20 22:59:49, [UNetConnection] RemoteAddr: 127.0.0.1:50852, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-21.59.49:393][314]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50852, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-21.59.49:394][314]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-21.59.49:445][315]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1: Accepted
+[2020.02.19-21.59.49:445][315]LogNet: Remote platform little endian=1
+[2020.02.19-21.59.49:445][315]LogNet: This platform little endian=1
+[2020.02.19-21.59.49:468][316]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-0V54JMG-6C31AF4E43F6E66C8C1B2E8055333330 userId: NULL:DESKTOP-0V54JMG-6C31AF4E43F6E66C8C1B2E8055333330 platform: NULL
+[2020.02.19-21.59.49:468][316]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1, Game: /Game/ThirdPersonBP/Blueprints/BeatemupGameMode.BeatemupGameMode_C)
+[2020.02.19-21.59.49:469][316]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1?game=/Game/ThirdPersonBP/Blueprints/BeatemupGameMode.BeatemupGameMode_C
+[2020.02.19-21.59.49:498][316]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.02.19-21.59.49:567][316]LogAIModule: Creating AISystem for world Stage_1_Plain_1
+[2020.02.19-21.59.49:567][316]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-21.59.49:581][316]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_Stage_1_Plain_1.Stage_1_Plain_1 up for play (max tick rate 60) at 2020.02.19-22.59.49
+[2020.02.19-21.59.49:582][316]LogWorld: Bringing up level for play took: 0.013942
+[2020.02.19-21.59.49:583][316]LogLoad: Took 0.114003 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1)
+[2020.02.19-21.59.49:594][317]LogNet: Client netspeed is 10000
+[2020.02.19-21.59.49:594][317]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-0V54JMG-6C31AF4E43F6E66C8C1B2E8055333330?SplitscreenCount=1
+[2020.02.19-21.59.49:594][317]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-21.59.49:599][317]LogNet: Join succeeded: DESKTOP-0V54JMG-6C31
+[2020.02.19-21.59.49:754][325]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-21.59.49:770][326]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-21.59.55:487][669]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-21.59.55:487][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-21.59.55:498][669]LogSlate: Window 'Ancient_Warriors Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-21.59.55:529][669]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2020.02.19-21.59.55:529][669]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2020.02.19-21.59.55:529][669]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-6C31AF4E43F6E66C8C1B2E8055333330, Channels: 11, Time: 2020.02.19-21.59.55
+[2020.02.19-21.59.55:529][669]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-6C31AF4E43F6E66C8C1B2E8055333330
+[2020.02.19-21.59.55:529][669]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2020.02.19-21.59.55:530][669]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.02.19-21.59.55:530][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-21.59.55:562][669]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2020.02.19-21.59.55:562][669]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2020.02.19-21.59.55:562][669]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50852, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-6C31AF4E43F6E66C8C1B2E8055333330
+[2020.02.19-21.59.55:562][669]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50852, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-6C31AF4E43F6E66C8C1B2E8055333330, Channels: 11, Time: 2020.02.19-21.59.55
+[2020.02.19-21.59.55:562][669]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50852, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-6C31AF4E43F6E66C8C1B2E8055333330
+[2020.02.19-21.59.55:562][669]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2020.02.19-21.59.55:563][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-21.59.55:563][669]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-21.59.55:592][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-21.59.55:600][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.02.19-21.59.55:626][670]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.19-21.59.55:626][670]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.02.19-22.00.07:302][370]Cmd: TRANSACTION UNDO
+[2020.02.19-22.00.07:302][370]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.00.07:361][370]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.00.07:385][370]LogTexture: Display: Building textures: Texture2D_751 (BGRA8, 512X512)
+[2020.02.19-22.00.07:694][388]Cmd: TRANSACTION UNDO
+[2020.02.19-22.00.07:694][388]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.00.07:745][388]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.00.07:761][388]LogTexture: Display: Building textures: Texture2D_751 (BGRA8, 512X512)
+[2020.02.19-22.00.08:683][442]Cmd: TRANSACTION UNDO
+[2020.02.19-22.00.08:683][442]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.00.10:251][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.00.11:122][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plain_1_01_Cylinder019)
+[2020.02.19-22.00.12:048][637]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plain_1_01_Cylinder020)
+[2020.02.19-22.00.18:454][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.00.18:571][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-22.00.18:580][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.00.18:581][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-22.00.18:581][ 26]PIE: New page: PIE session: Stage_1_Plain_1 (20/2/2020 0:00:18)
+[2020.02.19-22.00.18:581][ 26]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1
+[2020.02.19-22.00.18:643][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061889s)
+[2020.02.19-22.00.18:643][ 26]LogAIModule: Creating AISystem for world Stage_1_Plain_1
+[2020.02.19-22.00.18:643][ 26]LogPlayLevel: PIE: World Init took: (0.000473s)
+[2020.02.19-22.00.18:643][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1 to /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1 (0.062498s)
+[2020.02.19-22.00.18:670][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.02.19-22.00.18:674][ 26]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-22.00.18:728][ 26]LogInit: FAudioDevice initialized.
+[2020.02.19-22.00.18:754][ 26]LogLoad: Game class is 'BeatemupGameMode_C'
+[2020.02.19-22.00.18:765][ 26]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1 up for play (max tick rate 60) at 2020.02.19-23.00.18
+[2020.02.19-22.00.18:765][ 26]LogWorld: Bringing up level for play took: 0.009904
+[2020.02.19-22.00.18:780][ 26]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.00.18:780][ 26]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2020.02.19-22.00.18:780][ 26]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.00.18:780][ 26]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.02.19-22.00.18:780][ 26]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.02.19-22.00.18:780][ 26]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.02.19-22.00.18:780][ 26]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-22.00.18:780][ 26]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2020.02.19-22.00.18:781][ 26]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1 1,07
+[2020.02.19-22.00.18:786][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-22.00.18:790][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.00.18:822][ 26]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.02.19-22.00.18:822][ 26]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.00.18:822][ 26]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2020.02.19-22.00.18:822][ 26]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.02.19-22.00.18:822][ 26]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.02.19-22.00.18:823][ 26]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-22.00.18:823][ 26]LogNet: Game client on port 17777, rate 10000
+[2020.02.19-22.00.18:824][ 26]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 1,114
+[2020.02.19-22.00.18:831][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.00.18:831][ 26]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58659
+[2020.02.19-22.00.18:831][ 26]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 125197048203044131179224230092136182127167010062125099205228
+[2020.02.19-22.00.18:832][ 26]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 125197048203044131179224230092136182127167010062125099205228
+[2020.02.19-22.00.18:847][ 27]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58659
+[2020.02.19-22.00.18:847][ 27]LogHandshake: SendChallengeAck. InCookie: 125197048203044131179224230092136182127167010062125099205228
+[2020.02.19-22.00.18:847][ 27]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58659
+[2020.02.19-22.00.18:847][ 27]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-22.00.18:847][ 27]LogNet: NotifyAcceptedConnection: Name: Stage_1_Plain_1, TimeStamp: 02/19/20 23:00:18, [UNetConnection] RemoteAddr: 127.0.0.1:58659, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-22.00.18:847][ 27]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58659, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-22.00.18:848][ 27]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-22.00.18:892][ 28]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1: Accepted
+[2020.02.19-22.00.18:892][ 28]LogNet: Remote platform little endian=1
+[2020.02.19-22.00.18:893][ 28]LogNet: This platform little endian=1
+[2020.02.19-22.00.18:916][ 29]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-0V54JMG-F9A36E9B4165ED9F93C200A15C5EE81C userId: NULL:DESKTOP-0V54JMG-F9A36E9B4165ED9F93C200A15C5EE81C platform: NULL
+[2020.02.19-22.00.18:917][ 29]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1, Game: /Game/ThirdPersonBP/Blueprints/BeatemupGameMode.BeatemupGameMode_C)
+[2020.02.19-22.00.18:918][ 29]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1?game=/Game/ThirdPersonBP/Blueprints/BeatemupGameMode.BeatemupGameMode_C
+[2020.02.19-22.00.18:945][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.02.19-22.00.19:013][ 29]LogAIModule: Creating AISystem for world Stage_1_Plain_1
+[2020.02.19-22.00.19:014][ 29]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.00.19:025][ 29]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_Stage_1_Plain_1.Stage_1_Plain_1 up for play (max tick rate 60) at 2020.02.19-23.00.19
+[2020.02.19-22.00.19:025][ 29]LogWorld: Bringing up level for play took: 0.010613
+[2020.02.19-22.00.19:026][ 29]LogLoad: Took 0.107863 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1)
+[2020.02.19-22.00.19:037][ 30]LogNet: Client netspeed is 10000
+[2020.02.19-22.00.19:037][ 30]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-0V54JMG-F9A36E9B4165ED9F93C200A15C5EE81C?SplitscreenCount=1
+[2020.02.19-22.00.19:037][ 30]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-22.00.19:039][ 30]LogNet: Join succeeded: DESKTOP-0V54JMG-F9A3
+[2020.02.19-22.00.19:189][ 38]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-22.00.19:206][ 39]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-22.00.23:306][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.00.23:307][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.00.23:317][285]LogSlate: Window 'Ancient_Warriors Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-22.00.23:352][285]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2020.02.19-22.00.23:352][285]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2020.02.19-22.00.23:352][285]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-F9A36E9B4165ED9F93C200A15C5EE81C, Channels: 10, Time: 2020.02.19-22.00.23
+[2020.02.19-22.00.23:352][285]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-F9A36E9B4165ED9F93C200A15C5EE81C
+[2020.02.19-22.00.23:352][285]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2020.02.19-22.00.23:353][285]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.02.19-22.00.23:353][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.00.23:385][285]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2020.02.19-22.00.23:385][285]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2020.02.19-22.00.23:385][285]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:58659, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-F9A36E9B4165ED9F93C200A15C5EE81C
+[2020.02.19-22.00.23:385][285]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58659, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-F9A36E9B4165ED9F93C200A15C5EE81C, Channels: 10, Time: 2020.02.19-22.00.23
+[2020.02.19-22.00.23:385][285]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58659, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-F9A36E9B4165ED9F93C200A15C5EE81C
+[2020.02.19-22.00.23:385][285]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2020.02.19-22.00.23:386][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-22.00.23:386][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.00.23:419][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.00.23:424][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.02.19-22.00.23:432][286]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.19-22.00.23:432][286]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.19-22.00.25:482][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plain_1_01_Cylinder019)
+[2020.02.19-22.00.26:160][447]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plain_1_01_Cylinder020)
+[2020.02.19-22.00.29:660][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.00.29:794][663]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-22.00.29:893][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.00.29:893][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-22.00.29:893][663]PIE: New page: PIE session: Stage_1_Plain_1 (20/2/2020 0:00:29)
+[2020.02.19-22.00.29:893][663]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1
+[2020.02.19-22.00.29:954][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060249s)
+[2020.02.19-22.00.29:954][663]LogAIModule: Creating AISystem for world Stage_1_Plain_1
+[2020.02.19-22.00.29:954][663]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2020.02.19-22.00.29:954][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1 to /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1 (0.060844s)
+[2020.02.19-22.00.29:979][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.02.19-22.00.29:983][663]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-22.00.30:037][663]LogInit: FAudioDevice initialized.
+[2020.02.19-22.00.30:063][663]LogLoad: Game class is 'BeatemupGameMode_C'
+[2020.02.19-22.00.30:073][663]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1 up for play (max tick rate 60) at 2020.02.19-23.00.30
+[2020.02.19-22.00.30:074][663]LogWorld: Bringing up level for play took: 0.009887
+[2020.02.19-22.00.30:088][663]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.00.30:088][663]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2020.02.19-22.00.30:088][663]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.00.30:088][663]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.02.19-22.00.30:088][663]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.02.19-22.00.30:088][663]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.02.19-22.00.30:089][663]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-22.00.30:089][663]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2020.02.19-22.00.30:090][663]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1 0,379
+[2020.02.19-22.00.30:095][663]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-22.00.30:098][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.00.30:134][663]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.02.19-22.00.30:134][663]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.00.30:134][663]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2020.02.19-22.00.30:134][663]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.02.19-22.00.30:134][663]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.02.19-22.00.30:135][663]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-22.00.30:135][663]LogNet: Game client on port 17777, rate 10000
+[2020.02.19-22.00.30:137][663]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 0,426
+[2020.02.19-22.00.30:144][663]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.00.30:144][663]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51831
+[2020.02.19-22.00.30:144][663]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 176047246218055242247098028027034038112196014181078079057157
+[2020.02.19-22.00.30:146][663]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 176047246218055242247098028027034038112196014181078079057157
+[2020.02.19-22.00.30:159][664]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51831
+[2020.02.19-22.00.30:159][664]LogHandshake: SendChallengeAck. InCookie: 176047246218055242247098028027034038112196014181078079057157
+[2020.02.19-22.00.30:160][664]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51831
+[2020.02.19-22.00.30:160][664]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-22.00.30:160][664]LogNet: NotifyAcceptedConnection: Name: Stage_1_Plain_1, TimeStamp: 02/19/20 23:00:30, [UNetConnection] RemoteAddr: 127.0.0.1:51831, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-22.00.30:160][664]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51831, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-22.00.30:161][664]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-22.00.30:193][665]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1: Accepted
+[2020.02.19-22.00.30:193][665]LogNet: Remote platform little endian=1
+[2020.02.19-22.00.30:194][665]LogNet: This platform little endian=1
+[2020.02.19-22.00.30:214][666]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-0V54JMG-B380763A4B3B9DBA7FD9D988591F00DD userId: NULL:DESKTOP-0V54JMG-B380763A4B3B9DBA7FD9D988591F00DD platform: NULL
+[2020.02.19-22.00.30:215][666]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1, Game: /Game/ThirdPersonBP/Blueprints/BeatemupGameMode.BeatemupGameMode_C)
+[2020.02.19-22.00.30:215][666]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1?game=/Game/ThirdPersonBP/Blueprints/BeatemupGameMode.BeatemupGameMode_C
+[2020.02.19-22.00.30:244][666]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.02.19-22.00.30:312][666]LogAIModule: Creating AISystem for world Stage_1_Plain_1
+[2020.02.19-22.00.30:312][666]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.00.30:323][666]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_Stage_1_Plain_1.Stage_1_Plain_1 up for play (max tick rate 60) at 2020.02.19-23.00.30
+[2020.02.19-22.00.30:324][666]LogWorld: Bringing up level for play took: 0.010786
+[2020.02.19-22.00.30:324][666]LogLoad: Took 0.108405 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1)
+[2020.02.19-22.00.30:337][667]LogNet: Client netspeed is 10000
+[2020.02.19-22.00.30:337][667]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-0V54JMG-B380763A4B3B9DBA7FD9D988591F00DD?SplitscreenCount=1
+[2020.02.19-22.00.30:337][667]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-22.00.30:339][667]LogNet: Join succeeded: DESKTOP-0V54JMG-B380
+[2020.02.19-22.00.30:485][675]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-22.00.30:500][676]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-22.00.50:803][894]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.00.50:803][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.00.50:813][894]LogSlate: Window 'Ancient_Warriors Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-22.00.50:849][894]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2020.02.19-22.00.50:849][894]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2020.02.19-22.00.50:849][894]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-B380763A4B3B9DBA7FD9D988591F00DD, Channels: 11, Time: 2020.02.19-22.00.50
+[2020.02.19-22.00.50:849][894]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-B380763A4B3B9DBA7FD9D988591F00DD
+[2020.02.19-22.00.50:850][894]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2020.02.19-22.00.50:850][894]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.02.19-22.00.50:851][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.00.50:881][894]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2020.02.19-22.00.50:881][894]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2020.02.19-22.00.50:881][894]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51831, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-B380763A4B3B9DBA7FD9D988591F00DD
+[2020.02.19-22.00.50:881][894]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51831, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-B380763A4B3B9DBA7FD9D988591F00DD, Channels: 11, Time: 2020.02.19-22.00.50
+[2020.02.19-22.00.50:881][894]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51831, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-B380763A4B3B9DBA7FD9D988591F00DD
+[2020.02.19-22.00.50:881][894]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2020.02.19-22.00.50:882][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-22.00.50:882][894]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.00.50:912][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.00.50:919][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.02.19-22.00.50:927][895]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.19-22.00.50:927][895]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.19-22.00.53:961][ 77]Cmd: TRANSACTION UNDO
+[2020.02.19-22.00.53:961][ 77]LogEditorTransaction: Undo Move Actors
+[2020.02.19-22.00.54:277][ 96]Cmd: TRANSACTION UNDO
+[2020.02.19-22.00.54:277][ 96]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.19-22.00.54:925][133]Cmd: TRANSACTION UNDO
+[2020.02.19-22.00.54:925][133]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.19-22.00.55:424][163]Cmd: TRANSACTION UNDO
+[2020.02.19-22.00.55:424][163]LogEditorTransaction: Undo Move Actors
+[2020.02.19-22.00.56:408][222]Cmd: TRANSACTION UNDO
+[2020.02.19-22.00.56:408][222]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.19-22.00.56:791][244]Cmd: TRANSACTION UNDO
+[2020.02.19-22.00.56:791][244]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.19-22.00.57:707][299]Cmd: TRANSACTION UNDO
+[2020.02.19-22.00.57:707][299]LogEditorTransaction: Undo Landscape Editing: Add New Landscape Component
+[2020.02.19-22.00.59:124][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.19-22.01.00:274][451]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2020.02.19-22.01.26:212][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-22.01.26:564][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.02.19-22.01.27:520][  5]LogSavePackage: Moving 'G:/Dinosaurios/Game/Ancient_Warriors/Saved/Stage_1_Plain_1_Auto30AAFBE3A472C37A1CECE18B21C5315A6.tmp' to 'G:/Dinosaurios/Game/Ancient_Warriors/Saved/Autosaves/Game/ThirdPersonBP/Maps/Stage_1_Plain_1_Auto3.umap'
+[2020.02.19-22.01.27:535][  5]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1' took 0.994
+[2020.02.19-22.01.27:535][  5]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.994
+[2020.02.19-22.02.45:379][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.03.56:956][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.04.29:392][633]Cmd: TRANSACTION UNDO
+[2020.02.19-22.04.29:392][633]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.04.29:432][633]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.04.40:711][306]Cmd: TRANSACTION UNDO
+[2020.02.19-22.04.40:711][306]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.04.40:765][306]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.04.42:767][424]Cmd: TRANSACTION UNDO
+[2020.02.19-22.04.42:767][424]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.04.49:261][810]Cmd: TRANSACTION UNDO
+[2020.02.19-22.04.49:261][810]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.04.52:666][  8]Cmd: TRANSACTION UNDO
+[2020.02.19-22.04.52:666][  8]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.04.52:694][  8]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.04.53:158][ 34]Cmd: TRANSACTION UNDO
+[2020.02.19-22.04.53:158][ 34]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.04.53:182][ 34]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.04.53:608][ 58]Cmd: TRANSACTION UNDO
+[2020.02.19-22.04.53:608][ 58]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.04.53:631][ 58]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.04.53:973][ 77]Cmd: TRANSACTION UNDO
+[2020.02.19-22.04.53:973][ 77]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.04.53:999][ 77]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.04.54:373][ 99]Cmd: TRANSACTION UNDO
+[2020.02.19-22.04.54:373][ 99]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.04.54:399][ 99]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.04.54:789][122]Cmd: TRANSACTION UNDO
+[2020.02.19-22.04.54:789][122]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.04.54:813][122]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.04.55:437][159]Cmd: TRANSACTION UNDO
+[2020.02.19-22.04.55:437][159]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.04.59:208][382]Cmd: TRANSACTION UNDO
+[2020.02.19-22.04.59:208][382]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.05.09:622][  4]Cmd: TRANSACTION UNDO
+[2020.02.19-22.05.09:622][  4]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.05.09:660][  4]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.05.22:518][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.05.31:527][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.06.11:716][722]Cmd: TRANSACTION UNDO
+[2020.02.19-22.06.11:716][722]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.06.11:746][722]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.06.31:863][927]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2020.02.19-22.06.32:346][956]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2020.02.19-22.06.33:279][ 12]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2020.02.19-22.06.42:246][145]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-22.06.58:793][138]Cmd: TRANSACTION UNDO
+[2020.02.19-22.06.58:793][138]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.06.58:831][138]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.07.38:713][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.07.46:927][ 22]Cmd: TRANSACTION UNDO
+[2020.02.19-22.07.46:927][ 22]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.07.46:975][ 22]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.08.44:253][453]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.19-22.08.56:951][212]Cmd: TRANSACTION UNDO
+[2020.02.19-22.08.56:951][212]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.08.56:982][212]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.09.41:627][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.09.41:710][888]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-22.09.41:957][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.09.41:957][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-22.09.41:957][888]PIE: New page: PIE session: Stage_1_Plain_1 (20/2/2020 0:09:41)
+[2020.02.19-22.09.41:958][888]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1
+[2020.02.19-22.09.42:021][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063080s)
+[2020.02.19-22.09.42:021][888]LogAIModule: Creating AISystem for world Stage_1_Plain_1
+[2020.02.19-22.09.42:022][888]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2020.02.19-22.09.42:022][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1 to /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1 (0.063860s)
+[2020.02.19-22.09.42:068][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.02.19-22.09.42:076][888]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-22.09.42:132][888]LogInit: FAudioDevice initialized.
+[2020.02.19-22.09.42:159][888]LogLoad: Game class is 'BeatemupGameMode_C'
+[2020.02.19-22.09.42:170][888]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1 up for play (max tick rate 60) at 2020.02.19-23.09.42
+[2020.02.19-22.09.42:171][888]LogWorld: Bringing up level for play took: 0.010684
+[2020.02.19-22.09.42:185][888]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.09.42:185][888]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2020.02.19-22.09.42:185][888]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.09.42:185][888]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.02.19-22.09.42:185][888]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.02.19-22.09.42:185][888]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.02.19-22.09.42:185][888]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-22.09.42:185][888]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2020.02.19-22.09.42:186][888]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1 0,476
+[2020.02.19-22.09.42:192][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-22.09.42:196][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.09.42:227][888]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.02.19-22.09.42:227][888]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.09.42:227][888]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2020.02.19-22.09.42:227][888]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.02.19-22.09.42:227][888]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.02.19-22.09.42:228][888]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-22.09.42:228][888]LogNet: Game client on port 17777, rate 10000
+[2020.02.19-22.09.42:230][888]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 0,52
+[2020.02.19-22.09.42:236][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.09.42:236][888]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62620
+[2020.02.19-22.09.42:236][888]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 245241033028058150079182076034117199050231101054123152059163
+[2020.02.19-22.09.42:238][888]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 245241033028058150079182076034117199050231101054123152059163
+[2020.02.19-22.09.42:247][889]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62620
+[2020.02.19-22.09.42:247][889]LogHandshake: SendChallengeAck. InCookie: 245241033028058150079182076034117199050231101054123152059163
+[2020.02.19-22.09.42:247][889]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62620
+[2020.02.19-22.09.42:247][889]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-22.09.42:247][889]LogNet: NotifyAcceptedConnection: Name: Stage_1_Plain_1, TimeStamp: 02/19/20 23:09:42, [UNetConnection] RemoteAddr: 127.0.0.1:62620, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-22.09.42:247][889]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62620, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-22.09.42:248][889]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-22.09.42:350][890]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1: Accepted
+[2020.02.19-22.09.42:350][890]LogNet: Remote platform little endian=1
+[2020.02.19-22.09.42:350][890]LogNet: This platform little endian=1
+[2020.02.19-22.09.42:368][891]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-0V54JMG-4B1B003146FDD166E1933C8C89BE301E userId: NULL:DESKTOP-0V54JMG-4B1B003146FDD166E1933C8C89BE301E platform: NULL
+[2020.02.19-22.09.42:369][891]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1, Game: /Game/ThirdPersonBP/Blueprints/BeatemupGameMode.BeatemupGameMode_C)
+[2020.02.19-22.09.42:371][891]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1?game=/Game/ThirdPersonBP/Blueprints/BeatemupGameMode.BeatemupGameMode_C
+[2020.02.19-22.09.42:400][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.02.19-22.09.42:470][891]LogAIModule: Creating AISystem for world Stage_1_Plain_1
+[2020.02.19-22.09.42:471][891]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.09.42:481][891]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_Stage_1_Plain_1.Stage_1_Plain_1 up for play (max tick rate 60) at 2020.02.19-23.09.42
+[2020.02.19-22.09.42:482][891]LogWorld: Bringing up level for play took: 0.010120
+[2020.02.19-22.09.42:482][891]LogLoad: Took 0.110064 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1)
+[2020.02.19-22.09.42:490][892]LogNet: Client netspeed is 10000
+[2020.02.19-22.09.42:490][892]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-0V54JMG-4B1B003146FDD166E1933C8C89BE301E?SplitscreenCount=1
+[2020.02.19-22.09.42:491][892]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-22.09.42:493][892]LogNet: Join succeeded: DESKTOP-0V54JMG-4B1B
+[2020.02.19-22.09.42:640][900]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-22.09.42:656][901]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-22.09.55:958][699]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.09.55:958][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.09.55:969][699]LogSlate: Window 'Ancient_Warriors Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-22.09.56:004][699]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2020.02.19-22.09.56:004][699]LogNet: DestroyNamedNetDriver IpNetDriver_9 [GameNetDriver]
+[2020.02.19-22.09.56:004][699]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-4B1B003146FDD166E1933C8C89BE301E, Channels: 11, Time: 2020.02.19-22.09.56
+[2020.02.19-22.09.56:004][699]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-4B1B003146FDD166E1933C8C89BE301E
+[2020.02.19-22.09.56:004][699]LogExit: GameNetDriver IpNetDriver_9 shut down
+[2020.02.19-22.09.56:005][699]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.02.19-22.09.56:005][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.09.56:036][699]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2020.02.19-22.09.56:036][699]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2020.02.19-22.09.56:036][699]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:62620, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-4B1B003146FDD166E1933C8C89BE301E
+[2020.02.19-22.09.56:036][699]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62620, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-4B1B003146FDD166E1933C8C89BE301E, Channels: 11, Time: 2020.02.19-22.09.56
+[2020.02.19-22.09.56:036][699]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62620, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-4B1B003146FDD166E1933C8C89BE301E
+[2020.02.19-22.09.56:036][699]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2020.02.19-22.09.56:037][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-22.09.56:037][699]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.09.56:071][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.09.56:078][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.02.19-22.09.56:103][700]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.19-22.09.56:103][700]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.19-22.11.40:442][565]Cmd: TRANSACTION UNDO
+[2020.02.19-22.11.40:442][565]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.11.40:497][565]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.11.51:112][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.12.56:918][647]Cmd: TRANSACTION UNDO
+[2020.02.19-22.12.56:918][647]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.12.56:971][647]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.13.13:677][646]Cmd: TRANSACTION UNDO
+[2020.02.19-22.13.13:677][646]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.13.13:738][646]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.13.28:266][517]Cmd: TRANSACTION UNDO
+[2020.02.19-22.13.28:267][517]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.13.28:305][517]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.14.08:367][918]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape2)
+[2020.02.19-22.14.56:155][769]Cmd: TRANSACTION UNDO
+[2020.02.19-22.14.56:155][769]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.14.56:188][769]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.14.56:516][787]Cmd: TRANSACTION UNDO
+[2020.02.19-22.14.56:516][787]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.14.56:543][787]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.14.56:844][803]Cmd: TRANSACTION UNDO
+[2020.02.19-22.14.56:844][803]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.14.56:870][803]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.14.57:249][825]Cmd: TRANSACTION UNDO
+[2020.02.19-22.14.57:249][825]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.14.57:277][825]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.15.08:869][518]Cmd: TRANSACTION UNDO
+[2020.02.19-22.15.08:869][518]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.15.08:907][518]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.15.09:681][562]Cmd: TRANSACTION UNDO
+[2020.02.19-22.15.09:681][562]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.15.09:715][562]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.15.21:171][247]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.19-22.15.21:171][247]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.19-22.15.38:592][ 44]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.19-22.15.38:592][ 44]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.19-22.15.48:875][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.16.03:680][549]Cmd: TRANSACTION UNDO
+[2020.02.19-22.16.03:680][549]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.16.03:720][549]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.16.32:778][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.16.52:546][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-22.17.00:818][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.17.00:934][962]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.19-22.17.00:943][962]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.17.00:943][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-22.17.00:943][962]PIE: New page: PIE session: Stage_1_Plain_1 (20/2/2020 0:17:00)
+[2020.02.19-22.17.00:943][962]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1
+[2020.02.19-22.17.01:011][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067267s)
+[2020.02.19-22.17.01:011][962]LogAIModule: Creating AISystem for world Stage_1_Plain_1
+[2020.02.19-22.17.01:012][962]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2020.02.19-22.17.01:012][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1 to /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1 (0.068031s)
+[2020.02.19-22.17.01:056][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.02.19-22.17.01:068][962]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.19-22.17.01:125][962]LogInit: FAudioDevice initialized.
+[2020.02.19-22.17.01:153][962]LogLoad: Game class is 'BeatemupGameMode_C'
+[2020.02.19-22.17.01:165][962]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1 up for play (max tick rate 60) at 2020.02.19-23.17.01
+[2020.02.19-22.17.01:165][962]LogWorld: Bringing up level for play took: 0.011463
+[2020.02.19-22.17.01:180][962]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.17.01:180][962]LogTemp: Display: ParseSettings for IpNetDriver_10
+[2020.02.19-22.17.01:180][962]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.17.01:181][962]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.02.19-22.17.01:181][962]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.02.19-22.17.01:181][962]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.02.19-22.17.01:181][962]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-22.17.01:181][962]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 17777
+[2020.02.19-22.17.01:182][962]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1 -0,528
+[2020.02.19-22.17.01:188][962]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-22.17.01:191][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.17.01:225][962]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.02.19-22.17.01:226][962]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.17.01:226][962]LogTemp: Display: ParseSettings for IpNetDriver_11
+[2020.02.19-22.17.01:226][962]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.02.19-22.17.01:226][962]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.02.19-22.17.01:226][962]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-22.17.01:226][962]LogNet: Game client on port 17777, rate 10000
+[2020.02.19-22.17.01:228][962]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -0,482
+[2020.02.19-22.17.01:240][962]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.17.01:240][962]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61310
+[2020.02.19-22.17.01:240][962]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 048221097025182204017031082155006062126166253069196199219162
+[2020.02.19-22.17.01:242][962]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 048221097025182204017031082155006062126166253069196199219162
+[2020.02.19-22.17.01:258][963]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61310
+[2020.02.19-22.17.01:258][963]LogHandshake: SendChallengeAck. InCookie: 048221097025182204017031082155006062126166253069196199219162
+[2020.02.19-22.17.01:259][963]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61310
+[2020.02.19-22.17.01:259][963]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.02.19-22.17.01:259][963]LogNet: NotifyAcceptedConnection: Name: Stage_1_Plain_1, TimeStamp: 02/19/20 23:17:01, [UNetConnection] RemoteAddr: 127.0.0.1:61310, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-22.17.01:259][963]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61310, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-22.17.01:261][963]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.02.19-22.17.01:323][964]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1.Stage_1_Plain_1: Accepted
+[2020.02.19-22.17.01:323][964]LogNet: Remote platform little endian=1
+[2020.02.19-22.17.01:323][964]LogNet: This platform little endian=1
+[2020.02.19-22.17.01:342][965]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-0V54JMG-AAE520D04D71F78CBB6A23A0EFCFC62E userId: NULL:DESKTOP-0V54JMG-AAE520D04D71F78CBB6A23A0EFCFC62E platform: NULL
+[2020.02.19-22.17.01:343][965]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1, Game: /Game/ThirdPersonBP/Blueprints/BeatemupGameMode.BeatemupGameMode_C)
+[2020.02.19-22.17.01:345][965]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1?game=/Game/ThirdPersonBP/Blueprints/BeatemupGameMode.BeatemupGameMode_C
+[2020.02.19-22.17.01:372][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.02.19-22.17.01:447][965]LogAIModule: Creating AISystem for world Stage_1_Plain_1
+[2020.02.19-22.17.01:447][965]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.02.19-22.17.01:458][965]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_Stage_1_Plain_1.Stage_1_Plain_1 up for play (max tick rate 60) at 2020.02.19-23.17.01
+[2020.02.19-22.17.01:459][965]LogWorld: Bringing up level for play took: 0.010656
+[2020.02.19-22.17.01:459][965]LogLoad: Took 0.113803 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_Stage_1_Plain_1)
+[2020.02.19-22.17.01:471][966]LogNet: Client netspeed is 10000
+[2020.02.19-22.17.01:471][966]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-0V54JMG-AAE520D04D71F78CBB6A23A0EFCFC62E?SplitscreenCount=1
+[2020.02.19-22.17.01:471][966]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-22.17.01:473][966]LogNet: Join succeeded: DESKTOP-0V54JMG-AAE5
+[2020.02.19-22.17.01:640][974]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-22.17.01:656][975]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.02.19-22.17.02:654][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.17.02:773][ 42]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.17.02:773][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.17.02:783][ 42]LogSlate: Window 'Ancient_Warriors Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-22.17.02:820][ 42]LogNet: World NetDriver shutdown IpNetDriver_11 [GameNetDriver]
+[2020.02.19-22.17.02:820][ 42]LogNet: DestroyNamedNetDriver IpNetDriver_11 [GameNetDriver]
+[2020.02.19-22.17.02:820][ 42]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-AAE520D04D71F78CBB6A23A0EFCFC62E, Channels: 10, Time: 2020.02.19-22.17.02
+[2020.02.19-22.17.02:820][ 42]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-AAE520D04D71F78CBB6A23A0EFCFC62E
+[2020.02.19-22.17.02:821][ 42]LogExit: GameNetDriver IpNetDriver_11 shut down
+[2020.02.19-22.17.02:821][ 42]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.02.19-22.17.02:822][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.17.02:853][ 42]LogNet: World NetDriver shutdown IpNetDriver_10 [GameNetDriver]
+[2020.02.19-22.17.02:853][ 42]LogNet: DestroyNamedNetDriver IpNetDriver_10 [GameNetDriver]
+[2020.02.19-22.17.02:853][ 42]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:61310, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-AAE520D04D71F78CBB6A23A0EFCFC62E
+[2020.02.19-22.17.02:854][ 42]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:61310, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-AAE520D04D71F78CBB6A23A0EFCFC62E, Channels: 10, Time: 2020.02.19-22.17.02
+[2020.02.19-22.17.02:854][ 42]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61310, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-0V54JMG-AAE520D04D71F78CBB6A23A0EFCFC62E
+[2020.02.19-22.17.02:854][ 42]LogExit: GameNetDriver IpNetDriver_10 shut down
+[2020.02.19-22.17.02:854][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-22.17.02:855][ 42]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Stage_1_Plain_1.Stage_1_Plain_1:PersistentLevel.Stage_1_Plain_1'
+[2020.02.19-22.17.02:889][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-22.17.02:896][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.02.19-22.17.02:905][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.19-22.17.02:905][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.19-22.17.10:010][469]Cmd: TRANSACTION UNDO
+[2020.02.19-22.17.10:010][469]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.02.19-22.17.10:063][469]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.17.10:457][492]Cmd: TRANSACTION UNDO
+[2020.02.19-22.17.10:457][492]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.19-22.17.10:506][492]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 512X512)
+[2020.02.19-22.17.16:043][823]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.19-22.17.16:043][823]Can't find target actor or component.
+[2020.02.19-22.17.17:745][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-22.17.18:273][956]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.19-22.17.19:033][962]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.689 s
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: 
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: Ensure condition failed: Y != 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMath.cpp] [Line: 105]
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: FMath::FMod(X=-56752320512.000000, Y=0.000000) : Y is zero, this is invalid and would result in NaN!
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: Stack: 
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffe01b8f333 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffe016e75f5 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffdf41b51e0 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffdf410f87b UE4Editor-Renderer.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffdf40ee198 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffdf416e256 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffdf3c9a529 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffdf40fff70 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffdf40df382 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffe016b22d8 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffe016b2563 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffe455859f1 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffe4558c184 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffe01aa4b0f UE4Editor-Core.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffe01aa0877 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffe72dd4034 KERNEL32.DLL!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: [Callstack] 0x00007ffe752b3691 ntdll.dll!UnknownFunction []
+[2020.02.19-22.17.19:033][962]LogOutputDevice: Error: 
+[2020.02.19-22.17.19:033][962]LogStats:                SubmitErrorReport -  0.000 s
